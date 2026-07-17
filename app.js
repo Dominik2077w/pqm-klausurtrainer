@@ -51,6 +51,7 @@ const els = {
   emptyState: document.querySelector("#empty-state"),
   shuffleBtn: document.querySelector("#shuffle-btn"),
   resetSessionBtn: document.querySelector("#reset-session-btn"),
+  clearProgressBtn: document.querySelector("#clear-progress-btn"),
   tabs: document.querySelectorAll(".tab"),
   views: document.querySelectorAll(".view"),
   browseCount: document.querySelector("#browse-count"),
@@ -141,6 +142,7 @@ function bindEvents() {
     state.queue = [...state.filtered];
     render();
   });
+  els.clearProgressBtn.addEventListener("click", clearProgress);
   els.tabs.forEach((tab) => {
     tab.addEventListener("click", () => switchView(tab.dataset.view));
   });
@@ -296,6 +298,20 @@ function gradeCurrent(grade) {
     state.index = 0;
   }
   state.revealed = false;
+  render();
+}
+
+function clearProgress() {
+  const confirmed = window.confirm(
+    "Alle Lernstände für diese Seite löschen? Die Karten starten danach wieder bei null."
+  );
+  if (!confirmed) return;
+
+  state.progress = {};
+  localStorage.removeItem(STORE_KEY);
+  state.index = 0;
+  state.revealed = false;
+  state.queue = [...state.filtered];
   render();
 }
 

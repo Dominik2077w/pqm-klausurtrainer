@@ -229,6 +229,15 @@ button:focus-visible {
   color: var(--accent-strong);
 }
 
+.danger-btn {
+  border-color: rgba(180, 35, 24, 0.28);
+  color: var(--bad);
+}
+
+.danger-btn:hover {
+  background: #fff0ee;
+}
+
 .top-actions {
   display: flex;
   gap: 8px;
