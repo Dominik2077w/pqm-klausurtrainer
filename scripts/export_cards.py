@@ -55,17 +55,21 @@ TEXT_REPLACEMENTS = [
     ("gro?e", "große"),
     ("gro?", "groß"),
     ("N?herung", "Näherung"),
+    ("?hnlich", "ähnlich"),
     ("Abh?ng", "Abhäng"),
     ("Abl?ufe", "Abläufe"),
+    ("Aufl?sung", "Auflösung"),
     ("Best?t", "Bestät"),
     ("Begr?nd", "Begründ"),
     ("Verst?ndnis", "Verständnis"),
     ("Erkl?r", "Erklär"),
     ("erkl?r", "erklär"),
+    ("erl?utert", "erläutert"),
     ("ausf?hrlich", "ausführlich"),
     ("ausdr?cklich", "ausdrücklich"),
     ("w?rden", "würden"),
     ("w?rde", "würde"),
+    ("w?re", "wäre"),
     ("k?nnen", "können"),
     ("k?nne", "könne"),
     ("k?nnte", "könnte"),
@@ -103,7 +107,9 @@ TEXT_REPLACEMENTS = [
     ("zus?tzlich", "zusätzlich"),
     ("h?chstens", "höchstens"),
     ("G?te", "Güte"),
+    ("K?stchen", "Kästchen"),
     ("Gr?ten", "Gräten"),
+    ("gew?nschte", "gewünschte"),
     ("Vorw?rts", "Vorwärts"),
     ("R?ckw?rts", "Rückwärts"),
     ("Rückw?rts", "Rückwärts"),
@@ -149,7 +155,7 @@ def main() -> None:
     rows = con.execute(
         """
         select id, course, chapter, kind, priority, front, back, source, reason,
-               why_exam_relevant, tags, updated_at
+               why_exam_relevant, tags, teacher_hint_level, teacher_hint_reason, updated_at
         from review_items
         order by id
         """
@@ -164,6 +170,7 @@ def main() -> None:
     for row in rows:
         no = chapter_no(row["id"])
         reason = row["why_exam_relevant"] or row["reason"] or ""
+        teacher_hint_level = row["teacher_hint_level"] or ""
         cards.append(
             {
                 "id": row["id"],
@@ -176,18 +183,25 @@ def main() -> None:
                 "back": fix_text(row["back"]),
                 "source": fix_text(row["source"]),
                 "whyExamRelevant": fix_text(reason),
-                "tags": parse_tags(row["tags"]),
+                "teacherHint": bool(teacher_hint_level),
+                "teacherHintLevel": teacher_hint_level,
+                "teacherHintReason": fix_text(row["teacher_hint_reason"] or ""),
+                "tags": [fix_text(tag) for tag in parse_tags(row["tags"])],
                 "updatedAt": row["updated_at"],
             }
         )
 
-    counts_by_chapter = {n: {"total": 0, "memorize": 0, "skill": 0} for n in range(1, 13)}
+    counts_by_chapter = {
+        n: {"total": 0, "memorize": 0, "skill": 0, "teacherHint": 0} for n in range(1, 13)
+    }
     for card in cards:
         bucket = counts_by_chapter.setdefault(
-            card["chapterNo"], {"total": 0, "memorize": 0, "skill": 0}
+            card["chapterNo"], {"total": 0, "memorize": 0, "skill": 0, "teacherHint": 0}
         )
         bucket["total"] += 1
         bucket[card["kind"]] += 1
+        if card["teacherHint"]:
+            bucket["teacherHint"] += 1
 
     status_by_chapter = {}
     for row in status_rows:
@@ -231,6 +245,7 @@ def main() -> None:
         "generatedAt": datetime.now(timezone.utc).isoformat(),
         "sourceDatabase": str(DB_PATH),
         "totalCards": len(cards),
+        "teacherHintCards": sum(1 for card in cards if card["teacherHint"]),
         "chapters": chapters,
         "cards": cards,
     }

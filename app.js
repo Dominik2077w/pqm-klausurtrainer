@@ -16,6 +16,7 @@ const state = {
     search: "",
     dueOnly: false,
     weakOnly: false,
+    teacherHintOnly: false,
   },
 };
 
@@ -26,6 +27,7 @@ const els = {
   searchInput: document.querySelector("#search-input"),
   dueOnly: document.querySelector("#due-only"),
   weakOnly: document.querySelector("#weak-only"),
+  teacherHintOnly: document.querySelector("#teacher-hint-only"),
   chapterList: document.querySelector("#chapter-list"),
   statTotal: document.querySelector("#stat-total"),
   statDue: document.querySelector("#stat-due"),
@@ -36,11 +38,14 @@ const els = {
   cardChapter: document.querySelector("#card-chapter"),
   cardKind: document.querySelector("#card-kind"),
   cardPriority: document.querySelector("#card-priority"),
+  cardHint: document.querySelector("#card-hint"),
   cardFront: document.querySelector("#card-front"),
   cardAnswer: document.querySelector("#card-answer"),
   cardBack: document.querySelector("#card-back"),
   cardSource: document.querySelector("#card-source"),
   cardReason: document.querySelector("#card-reason"),
+  cardHintReason: document.querySelector("#card-hint-reason"),
+  cardHintBlock: document.querySelector("#card-hint-block"),
   showAnswerBtn: document.querySelector("#show-answer-btn"),
   gradeActions: document.querySelector("#grade-actions"),
   emptyState: document.querySelector("#empty-state"),
@@ -76,7 +81,8 @@ function buildFilters() {
 
   els.chapterList.innerHTML = state.data.chapters
     .map((chapter) => {
-      const status = chapter.total ? `${chapter.memorize} 要背 · ${chapter.skill} 要会` : "nicht prüfungsaktiv";
+      const tip = chapter.teacherHint ? ` · ${chapter.teacherHint} Tipps` : "";
+      const status = chapter.total ? `${chapter.memorize} 要背 · ${chapter.skill} 要会${tip}` : "nicht prüfungsaktiv";
       return `
         <div class="chapter-row">
           <div>
@@ -113,6 +119,10 @@ function bindEvents() {
   });
   els.weakOnly.addEventListener("change", () => {
     state.filters.weakOnly = els.weakOnly.checked;
+    applyFilters();
+  });
+  els.teacherHintOnly.addEventListener("change", () => {
+    state.filters.teacherHintOnly = els.teacherHintOnly.checked;
     applyFilters();
   });
   els.showAnswerBtn.addEventListener("click", revealAnswer);
@@ -166,8 +176,9 @@ function applyFilters() {
     }
     if (state.filters.dueOnly && (progress.nextReview || 0) > now) return false;
     if (state.filters.weakOnly && !isWeak(progress)) return false;
+    if (state.filters.teacherHintOnly && !card.teacherHint) return false;
     if (state.filters.search) {
-      const haystack = [card.front, card.back, card.source, card.whyExamRelevant, card.chapter, ...(card.tags || [])]
+      const haystack = [card.front, card.back, card.source, card.whyExamRelevant, card.teacherHintReason, card.chapter, ...(card.tags || [])]
         .join(" ")
         .toLowerCase();
       if (!haystack.includes(state.filters.search)) return false;
@@ -196,10 +207,13 @@ function render() {
   els.cardChapter.textContent = `K${String(card.chapterNo).padStart(2, "0")}`;
   els.cardKind.textContent = card.kind === "memorize" ? "要背" : "要会";
   els.cardPriority.textContent = `P${card.priority}`;
+  els.cardHint.hidden = !card.teacherHint;
   els.cardFront.textContent = card.front;
   els.cardBack.textContent = card.back;
   els.cardSource.textContent = card.source || "Keine Quelle hinterlegt.";
   els.cardReason.textContent = card.whyExamRelevant || "Keine separate Begründung hinterlegt.";
+  els.cardHintBlock.hidden = !card.teacherHint;
+  els.cardHintReason.textContent = card.teacherHintReason || "Vom Dozenten als besonders prüfungsnah markiert.";
   els.cardAnswer.hidden = !state.revealed;
   els.showAnswerBtn.hidden = state.revealed;
   els.gradeActions.hidden = !state.revealed;
@@ -222,11 +236,12 @@ function renderBrowse() {
   els.browseCount.textContent = `${state.filtered.length} Karten`;
   els.cardTable.innerHTML = state.filtered
     .map((card) => `
-      <article class="browse-card">
+      <article class="browse-card${card.teacherHint ? " is-hint" : ""}">
         <div class="card-meta">
           <span class="pill">K${String(card.chapterNo).padStart(2, "0")}</span>
           <span class="pill">${card.kind === "memorize" ? "要背" : "要会"}</span>
           <span class="pill">P${card.priority}</span>
+          ${card.teacherHint ? '<span class="pill hint-pill">Dozententipp</span>' : ""}
         </div>
         <h3>${escapeHtml(card.front)}</h3>
         <p>${escapeHtml(card.back)}</p>

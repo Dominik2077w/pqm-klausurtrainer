@@ -75,6 +75,10 @@
               <input id="weak-only" type="checkbox" />
               Nur unsichere Karten
             </label>
+            <label class="check-label">
+              <input id="teacher-hint-only" type="checkbox" />
+              Nur Dozententipps
+            </label>
           </div>
         </section>
 
@@ -107,6 +111,7 @@
               <span id="card-chapter" class="pill">Kapitel</span>
               <span id="card-kind" class="pill">Typ</span>
               <span id="card-priority" class="pill">P</span>
+              <span id="card-hint" class="pill hint-pill" hidden>Dozententipp</span>
             </div>
 
             <h2 id="card-front">Karten werden geladen...</h2>
@@ -116,6 +121,7 @@
               <div id="card-back" class="answer-body"></div>
               <details class="evidence">
                 <summary>Quelle und Prüfungsgrund</summary>
+                <p id="card-hint-block" hidden><strong>Dozententipp:</strong> <span id="card-hint-reason"></span></p>
                 <p><strong>Quelle:</strong> <span id="card-source"></span></p>
                 <p><strong>Warum prüfungsrelevant:</strong> <span id="card-reason"></span></p>
               </details>

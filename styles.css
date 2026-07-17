@@ -284,6 +284,12 @@ button:focus-visible {
   font-weight: 750;
 }
 
+.hint-pill {
+  border-color: #f59e0b;
+  background: #fff7e6;
+  color: #8a4f00;
+}
+
 #card-front {
   margin: 0;
   font-size: clamp(27px, 4vw, 44px);
@@ -414,6 +420,11 @@ button:focus-visible {
   border-radius: 8px;
   padding: 16px;
   background: var(--surface);
+}
+
+.browse-card.is-hint {
+  border-color: rgba(245, 158, 11, 0.55);
+  box-shadow: inset 4px 0 0 #f59e0b;
 }
 
 .browse-card h3 {
