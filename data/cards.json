@@ -1,0 +1,2231 @@
+{
+  "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+  "generatedAt": "2026-07-17T03:06:37.175425+00:00",
+  "sourceDatabase": "C:\\Users\\Dominik\\Documents\\GitHub\\HSK_WI_KURS_ARS\\26SS\\QM\\review\\qm_exam_review.sqlite",
+  "totalCards": 117,
+  "chapters": [
+    {
+      "chapterNo": 1,
+      "title": "Kapitel 1 Einführung",
+      "status": "prepared",
+      "total": 11,
+      "memorize": 6,
+      "skill": 5
+    },
+    {
+      "chapterNo": 2,
+      "title": "Kapitel 2 Qualitätsmanagementsysteme",
+      "status": "prepared",
+      "total": 12,
+      "memorize": 8,
+      "skill": 4
+    },
+    {
+      "chapterNo": 3,
+      "title": "Kapitel 3 Qualitätsmanagement in der Beschaffung inkl. 3.6 Wareneingangsprüfung",
+      "status": "prepared",
+      "total": 15,
+      "memorize": 8,
+      "skill": 7
+    },
+    {
+      "chapterNo": 4,
+      "title": "Kapitel 4 Statistische Prozessregelung",
+      "status": "prepared",
+      "total": 15,
+      "memorize": 9,
+      "skill": 6
+    },
+    {
+      "chapterNo": 5,
+      "title": "Kapitel 5 Messsysteme",
+      "status": "prepared",
+      "total": 15,
+      "memorize": 10,
+      "skill": 5
+    },
+    {
+      "chapterNo": 6,
+      "title": "Kapitel 6 Qualitätswerkzeuge",
+      "status": "prepared",
+      "total": 11,
+      "memorize": 7,
+      "skill": 4
+    },
+    {
+      "chapterNo": 7,
+      "title": "Kapitel 7 FMEA",
+      "status": "prepared",
+      "total": 10,
+      "memorize": 6,
+      "skill": 4
+    },
+    {
+      "chapterNo": 8,
+      "title": "Kapitel 8 Prozesskettenmanagement",
+      "status": "skipped_no_exam_material",
+      "total": 0,
+      "memorize": 0,
+      "skill": 0
+    },
+    {
+      "chapterNo": 9,
+      "title": "Kapitel 9 Qualitätsbezogene Kosten",
+      "status": "skipped_no_exam_material",
+      "total": 0,
+      "memorize": 0,
+      "skill": 0
+    },
+    {
+      "chapterNo": 10,
+      "title": "Kapitel 10 Servicequalität",
+      "status": "prepared",
+      "total": 8,
+      "memorize": 5,
+      "skill": 3
+    },
+    {
+      "chapterNo": 11,
+      "title": "Kapitel 11 Projektplanung",
+      "status": "done",
+      "total": 10,
+      "memorize": 7,
+      "skill": 3
+    },
+    {
+      "chapterNo": 12,
+      "title": "Kapitel 12 Führung von Projektteams",
+      "status": "rebuilt",
+      "total": 10,
+      "memorize": 7,
+      "skill": 3
+    }
+  ],
+  "cards": [
+    {
+      "id": "QM-K01-M01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 1,
+      "chapter": "Kapitel 1 Einführung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Nennen Sie die vier Entwicklungsstufen des Qualitätswesens in der richtigen Reihenfolge.",
+      "back": "Qualitätskontrolle -> Qualitätssicherung -> Qualitätsmanagement -> Total Quality Management. Kurz erklären: nachträgliche Kontrolle; Prozesskontrolle/statistische Regelkreise; Normen/Zertifizierung/Managementverpflichtung; unternehmensweite Aufgabe mit allen Mitarbeitern und Verschwendung vermeiden.",
+      "source": "PDF Kapitel 1 S. 11 und S. 23-24 / Page 12 und 25-26; Transkript 2026-03-19 Zeilen 1441-1448; Uebungsaufgaben_1_QM.pdf Aufgabe 1a.",
+      "whyExamRelevant": "Direkte Kapitelende-Wiederholungsfrage; Lehrer hat in der Stunde auf diese erste Frage verwiesen; Uebungsaufgabe fragt es direkt ab.",
+      "tags": [
+        "QM",
+        "Kapitel 1",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16 17:55:32"
+    },
+    {
+      "id": "QM-K01-M02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 1,
+      "chapter": "Kapitel 1 Einführung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Nennen und erklären Sie die vier Merkmale eines umfassenden Qualitätsverständnisses.",
+      "back": "Ganzheitlich: Management, Mitarbeiter, Partner, alle Prozesse. Präventiv: Fehlerursachen früh vermeiden. Prozessorientiert: schlanke, beherrschte Prozesse; internes Kunden-Lieferanten-Verhältnis. Kundenbezogen: Kundenwünsche, Betreuung, Umwelt/Nachhaltigkeit.",
+      "source": "PDF Kapitel 1 S. 22-24 / Page 24-26; Transkript 2026-03-19 Zeilen 1338-1407 und 1449-1456; Uebungsaufgaben_2_QM.pdf Aufgabe 1a.",
+      "whyExamRelevant": "Direkte Kapitelende-Wiederholungsfrage; Lehrer sagte, man solle die vier Begriffe plus Beispiel koennen; Uebungsaufgabe fragt es direkt ab.",
+      "tags": [
+        "QM",
+        "Kapitel 1",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16 17:55:32"
+    },
+    {
+      "id": "QM-K01-M03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 1,
+      "chapter": "Kapitel 1 Einführung",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Wie definiert DIN EN ISO 9000 Qualität?",
+      "back": "Qualität ist der Grad, in dem inhärente Merkmale eines Objekts Anforderungen erfüllen. Merkmal = kennzeichnende Eigenschaft; Anforderung = festgelegte, vorausgesetzte oder verpflichtende Erwartung.",
+      "source": "PDF Kapitel 1 S. 13 / Page 15.",
+      "whyExamRelevant": "Kapitel 1 kommt komplett dran; zentrale Grunddefinition. Keine direkte章末题, daher Priorität 2.",
+      "tags": [
+        "QM",
+        "Kapitel 1",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T19:53:57"
+    },
+    {
+      "id": "QM-K01-M04",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 1,
+      "chapter": "Kapitel 1 Einführung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Zwischen welchen zwei Kategorien von Merkmalen wird unterschieden?",
+      "back": "Quantitative/variable Merkmale: messbare Zahlenwerte, z. B. Stromstärke, Anzahl Fehler. Qualitative/attributive Merkmale: klassifizierend, z. B. Haarfarbe, Gratfreiheit.",
+      "source": "PDF Kapitel 1 S. 14 und S. 23-24 / Page 16 und 25-26; Transkript 2026-03-19 Zeilen 1462-1468.",
+      "whyExamRelevant": "Direkte章末 Wiederholungsfrage; Lehrer hat die Lösung in der Stunde besprochen.",
+      "tags": [
+        "QM",
+        "Kapitel 1",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T19:53:57"
+    },
+    {
+      "id": "QM-K01-M05",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 1,
+      "chapter": "Kapitel 1 Einführung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Beschreiben Sie die Zehner-Regel der Fehlerkosten. Was folgt daraus für QM?",
+      "back": "Je später ein Fehler entdeckt wird, desto teurer wird seine Beseitigung; pro Phase ungefähr Faktor 10. Folge: QM muss präventiv arbeiten und Ursachen früh vermeiden. Beispiel: Entwicklung 0,1 -> Arbeitsvorbereitung 1 -> Produktion 10 -> Feldeinsatz 100.",
+      "source": "PDF Kapitel 1 S. 18 und S. 25 / Page 20 und 27; Transkript 2026-03-19 Zeilen 1145-1189; Uebungsaufgaben_2_QM.pdf Aufgabe 1b.",
+      "whyExamRelevant": "Direkte Kapitelende-Wiederholungsfrage; Lehrer hat die wirtschaftliche Konsequenz ausfuehrlich erklaert; Uebungsaufgabe fragt es direkt ab.",
+      "tags": [
+        "QM",
+        "Kapitel 1",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16 17:55:32"
+    },
+    {
+      "id": "QM-K01-M06",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 1,
+      "chapter": "Kapitel 1 Einführung",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Was zeigt das Eisbergmodell der Fehlerkosten?",
+      "back": "Nur ein kleiner sichtbarer Teil der Fehlerkosten wird berichtet; der größere Teil ist versteckt. Sichtbar: Nacharbeit, Ausschuss, Garantieleistungen. Versteckt: Expresslieferungen, Wartezeiten, Workarounds, Lagerbestände, Problemlösungsbesprechungen, Maschinenstillstände, entgangene Aufträge.",
+      "source": "PDF Kapitel 1 S. 19 / Page 21; Transkript 2026-03-19 Zeilen 1209-1305.",
+      "whyExamRelevant": "Kein direktes章末题, aber langer Lehrerblock zu Fehlerkosten; verbunden mit Zehner-Regel. Priorität 2.",
+      "tags": [
+        "QM",
+        "Kapitel 1",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T19:53:57"
+    },
+    {
+      "id": "QM-K01-S01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 1,
+      "chapter": "Kapitel 1 Einführung",
+      "kind": "skill",
+      "priority": 1,
+      "front": "KANO-Modell zeichnen und beschriften.",
+      "back": "Muss enthalten: x-Achse Erfüllungsgrad der Kundenforderung; y-Achse Kundenzufriedenheit; Basismerkmal, Leistungsmerkmal, Begeisterungsmerkmal. Basis: erwartet, nicht ausgesprochen, Fehlen macht unzufrieden. Leistung: ausgesprochen, mehr = zufriedener. Begeisterung: unerwartet, macht positiv überrascht. Zusatz: Begeisterung kann mit der Zeit Basis werden.",
+      "source": "PDF Kapitel 1 S. 16-17 und S. 23-24 / Page 18-19 und 25-26; Transkript 2026-03-19 Zeilen 1469-1478; Uebungsaufgaben_1_QM.pdf Aufgabe 1b.",
+      "whyExamRelevant": "Direkte Kapitelende-Wiederholungsfrage verlangt Achsen und Merkmalsverlaeufe; Uebungsaufgabe fragt es direkt ab.",
+      "tags": [
+        "QM",
+        "Kapitel 1",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16 17:55:32"
+    },
+    {
+      "id": "QM-K01-S02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 1,
+      "chapter": "Kapitel 1 Einführung",
+      "kind": "skill",
+      "priority": 1,
+      "front": "KANO-Beispiele als Basis-, Leistungs- oder Begeisterungsmerkmal einordnen.",
+      "back": "Vorgehen: selbstverständlich erwartet -> Basis; ausdrücklich gewünscht und graduell bewertbar -> Leistung; unerwartet positiv -> Begeisterung. Vorlesungsbeispiele Hörsaal: Licht/Sitzplatz Basis; moderne Ausstattung/Platz/bequeme Stühle Leistung; leise Kaffeemaschine/Wasserspender Begeisterung.",
+      "source": "PDF Kapitel 1 S. 17 / Page 19; Transkript 2026-03-19 Zeilen 1096-1144.",
+      "whyExamRelevant": "讲义中是 Übung; Lehrer hat sie in der Vorlesung tatsächlich gemacht.",
+      "tags": [
+        "QM",
+        "Kapitel 1",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T19:53:57"
+    },
+    {
+      "id": "QM-K01-S03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 1,
+      "chapter": "Kapitel 1 Einführung",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Zehner-Regel auf eine Fehlerkosten-Aufgabe anwenden.",
+      "back": "Phase bestimmen; pro späterer Phase ungefähr mit 10 multiplizieren; am Ende präventives QM begründen. Beispiel: 1 Euro in Entwicklung -> 100 Euro in Produktion -> 1000 Euro im Feldeinsatz.",
+      "source": "PDF Kapitel 1 S. 18 / Page 20; Transkript 2026-03-19 Zeilen 1145-1189.",
+      "whyExamRelevant": "Direkte Wiederholungsfrage plus einfache Rechen-/Begründungsanwendung.",
+      "tags": [
+        "QM",
+        "Kapitel 1",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T19:53:57"
+    },
+    {
+      "id": "QM-K01-S04",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 1,
+      "chapter": "Kapitel 1 Einführung",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Merkmale als qualitativ oder quantitativ klassifizieren.",
+      "back": "Zahlenwert auf Skala -> quantitativ. Klasse/Eigenschaft -> qualitativ. Beispiele: Stromstärke quantitativ; Anzahl Fehler quantitativ-diskret; Haarfarbe qualitativ; Gratfreiheit qualitativ-alternativ.",
+      "source": "PDF Kapitel 1 S. 14 und S. 23-24 / Page 16 und 25-26; Transkript 2026-03-19 Zeilen 1462-1468.",
+      "whyExamRelevant": "Direkte章末 Wiederholungsfrage; kann als kurze Einordnungsaufgabe kommen.",
+      "tags": [
+        "QM",
+        "Kapitel 1",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T19:53:57"
+    },
+    {
+      "id": "QM-K01-S05",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 1,
+      "chapter": "Kapitel 1 Einführung",
+      "kind": "skill",
+      "priority": 2,
+      "front": "Fehlerkosten in Lost Sales, Qualitätsmängel oder Sonderkosten einordnen.",
+      "back": "Lost Sales: entgangene Aufträge. Qualitätsmängel: Garantie, Kulanz, Rückruf, Nullserie, späte Zahlungen. Sonderkosten: Expresslieferungen, Lagerbestände, Maschinenstillstand, Problemlösungsbesprechungen.",
+      "source": "PDF Kapitel 1 S. 20 / Page 22; Transkript 2026-03-19 Zeilen 1300-1337.",
+      "whyExamRelevant": "讲义中是 Einordnungsübung; Lehrer hat sie im Fehlerkosten-Block erklärt. Priorität 2.",
+      "tags": [
+        "QM",
+        "Kapitel 1",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T19:53:57"
+    },
+    {
+      "id": "QM-K02-M01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 2,
+      "chapter": "Kapitel 2 Qualitätsmanagementsysteme",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Was ist ein Qualitätsmanagementsystem?",
+      "back": "Ein QMS ist die verknüpfte Gestaltung von Aufbau- und Ablauforganisation für qualitätsbezogene Aktivitäten. Es umfasst Struktur, Rollen, Verantwortlichkeiten, Planung/Betrieb, Regeln, Ziele und Prozesse.",
+      "source": "Quelle: Kapitel 2 PDF Page 4; Transkript 2026-03-26 Zeilen 70-77. Warum: Grundlagenbegriff des Kapitels; Kapitel 2 ist klausurrelevant ohne EFQM.",
+      "whyExamRelevant": "",
+      "tags": [
+        "QM",
+        "Kapitel 2",
+        "memorize",
+        "P2"
+      ],
+      "updatedAt": "2026-07-16T20:05:47"
+    },
+    {
+      "id": "QM-K02-M02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 2,
+      "chapter": "Kapitel 2 Qualitätsmanagementsysteme",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was beschreiben ISO 9000, ISO 9001 und ISO 9004?",
+      "back": "ISO 9000: Grundlagen und Begriffe. ISO 9001: Anforderungen an QMS, Basis für Zertifizierung, Mindeststandard. ISO 9004: geht über ISO 9001 hinaus Richtung nachhaltiger Erfolg/TQM, nicht zertifizierbar.",
+      "source": "Quelle: Kapitel 2 PDF Page 6 und Page 94; Übungsaufgaben_1_QM.pdf Aufgabe 2a; Transkript 2026-03-26 Zeilen 101-122. Warum: direkte Wiederholfrage und Übungsaufgabe.",
+      "whyExamRelevant": "",
+      "tags": [
+        "QM",
+        "Kapitel 2",
+        "memorize",
+        "P1"
+      ],
+      "updatedAt": "2026-07-16T20:05:47"
+    },
+    {
+      "id": "QM-K02-M03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 2,
+      "chapter": "Kapitel 2 Qualitätsmanagementsysteme",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Welche Hauptkategorien integriert das Prozessmodell der ISO 9001?",
+      "back": "4 Kontext der Organisation; 5 Führung; 6 Planung; 7 Unterstützung; 8 Betrieb; 9 Bewertung der Leistung; 10 Verbesserung.",
+      "source": "Quelle: Kapitel 2 PDF Page 11 und Page 94. Warum: direkte Wiederholfrage zum Prozessmodell.",
+      "whyExamRelevant": "",
+      "tags": [
+        "QM",
+        "Kapitel 2",
+        "memorize",
+        "P1"
+      ],
+      "updatedAt": "2026-07-16T20:05:47"
+    },
+    {
+      "id": "QM-K02-M04",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 2,
+      "chapter": "Kapitel 2 Qualitätsmanagementsysteme",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Nennen Sie zwei Aufgaben der Führung im QMS nach ISO 9001.",
+      "back": "Qualitätspolitik festlegen/kommunizieren; Rollen, Verantwortlichkeiten und Befugnisse zuweisen. Auch möglich: Führung und Verpflichtung für das QMS zeigen.",
+      "source": "Quelle: Kapitel 2 PDF Page 11; Übungsaufgaben_1_QM.pdf Aufgabe 2b. Warum: kommt in Übungsaufgaben vor, passt zum ISO-9001-Prozessmodell.",
+      "whyExamRelevant": "",
+      "tags": [
+        "QM",
+        "Kapitel 2",
+        "memorize",
+        "P2"
+      ],
+      "updatedAt": "2026-07-16T20:05:47"
+    },
+    {
+      "id": "QM-K02-M05",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 2,
+      "chapter": "Kapitel 2 Qualitätsmanagementsysteme",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Welche Anforderungen stellt ISO 9001 an Qualitätsziele?",
+      "back": "Sie müssen zur Qualitätspolitik passen, messbar sein, Anforderungen berücksichtigen, für Kundenzufriedenheit relevant sein sowie überwacht, vermittelt und aktualisiert werden.",
+      "source": "Quelle: Transkript 2026-03-26_2 Zeilen 496-499 und 631-648; Kapitel 2 PDF Page 30. Warum: ausführlich im Unterricht behandelt, Qualitätsziele-Seite mit Mitschrift.",
+      "whyExamRelevant": "",
+      "tags": [
+        "QM",
+        "Kapitel 2",
+        "memorize",
+        "P2"
+      ],
+      "updatedAt": "2026-07-16T20:05:47"
+    },
+    {
+      "id": "QM-K02-M06",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 2,
+      "chapter": "Kapitel 2 Qualitätsmanagementsysteme",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was ist ein Audit im Qualitätsmanagement?",
+      "back": "Ein Audit ist ein systematischer, unabhängiger und dokumentierter Prozess, um objektive Nachweise zu erhalten und Wirksamkeit/Schwachstellen des QMS zu prüfen.",
+      "source": "Quelle: Kapitel 2 PDF Page 66 und Page 90; Übungsaufgaben_2_QM.pdf Aufgabe 1c. Warum: Übungsaufgabe fragt direkt, was in einem Audit gemacht wird.",
+      "whyExamRelevant": "",
+      "tags": [
+        "QM",
+        "Kapitel 2",
+        "memorize",
+        "P1"
+      ],
+      "updatedAt": "2026-07-16T20:05:47"
+    },
+    {
+      "id": "QM-K02-M07",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 2,
+      "chapter": "Kapitel 2 Qualitätsmanagementsysteme",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was ist ein Systemaudit?",
+      "back": "Ein Systemaudit prüft Aufbau- und Ablauforganisation des QMS sowie Anwendung und Wirksamkeit von QM-Dokumentation und QM-Anweisungen.",
+      "source": "Quelle: Kapitel 2 PDF Page 90 und Page 94; Übungsaufgaben_2_QM.pdf Aufgabe 1c. Warum: direkte Wiederholfrage: Was ist ein System Audit?",
+      "whyExamRelevant": "",
+      "tags": [
+        "QM",
+        "Kapitel 2",
+        "memorize",
+        "P1"
+      ],
+      "updatedAt": "2026-07-16T20:05:47"
+    },
+    {
+      "id": "QM-K02-M08",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 2,
+      "chapter": "Kapitel 2 Qualitätsmanagementsysteme",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Was bedeutet Zertifizierung und wie lange gilt ein QMS-Zertifikat?",
+      "back": "Zertifizierung: akkreditierter Prüfer bestätigt schriftlich die Einhaltung eines Standards. QMS-Zertifikate gelten 3 Jahre; dazwischen jährliche Überwachungsaudits, danach Wiederholungsaudit.",
+      "source": "Quelle: Kapitel 2 PDF Page 92-93; Transkript 2026-03-26 Zeilen 142-160. Warum: im Unterricht mit Zertifikat-Beispiel erklärt; Kapitel 2 enthält Auditierung/Zertifizierung.",
+      "whyExamRelevant": "",
+      "tags": [
+        "QM",
+        "Kapitel 2",
+        "memorize",
+        "P2"
+      ],
+      "updatedAt": "2026-07-16T20:05:47"
+    },
+    {
+      "id": "QM-K02-S01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 2,
+      "chapter": "Kapitel 2 Qualitätsmanagementsysteme",
+      "kind": "skill",
+      "priority": 1,
+      "front": "ISO-9001-Prozessmodell beschriften: Welche Blöcke und Flussrichtung müssen sitzen?",
+      "back": "Blöcke: 4 Kontext, 5 Führung, 6 Planung, 7 Unterstützung, 8 Betrieb, 9 Bewertung der Leistung, 10 Verbesserung. Fluss: Kunde/Anforderungen -> Betrieb -> Ergebnis/Kundenzufriedenheit; Bewertung und Verbesserung schließen den Regelkreis.",
+      "source": "Quelle: Kapitel 2 PDF Page 11 und Page 94. Warum: direkte Wiederholfrage zum grafischen Prozessmodell.",
+      "whyExamRelevant": "",
+      "tags": [
+        "QM",
+        "Kapitel 2",
+        "skill",
+        "P1"
+      ],
+      "updatedAt": "2026-07-16T20:05:47"
+    },
+    {
+      "id": "QM-K02-S02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 2,
+      "chapter": "Kapitel 2 Qualitätsmanagementsysteme",
+      "kind": "skill",
+      "priority": 2,
+      "front": "ISO 9001 Bewertung der Leistung: Welche Aussagen sind richtig/falsch?",
+      "back": "Richtig: Kundenzufriedenheit überwachen; Methode nicht vorgeschrieben; interne Audits regelmäßig durchführen; Managementbewertung bezieht sich auf gesamtes QMS. Falsch: interne Audits müssen unangekündigt sein; Managementbewertung bezieht sich nur auf externe Lieferanten.",
+      "source": "Quelle: Kapitel 2 PDF Page 70. Warum: explizite Unterrichts-/Quizfolie Welche Aussagen treffen zu?",
+      "whyExamRelevant": "",
+      "tags": [
+        "QM",
+        "Kapitel 2",
+        "skill",
+        "P2"
+      ],
+      "updatedAt": "2026-07-16T20:05:47"
+    },
+    {
+      "id": "QM-K02-S03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 2,
+      "chapter": "Kapitel 2 Qualitätsmanagementsysteme",
+      "kind": "skill",
+      "priority": 2,
+      "front": "Beispiele für Qualitätsziele formulieren: Was sind gute Beispiele je Bereich?",
+      "back": "Produktion: Ausschussquote, Nacharbeitsrate, Prozessfähigkeit. Entwicklung: Einhaltung von Quality Gates/Meilensteinen, Designverifikation beim ersten Mal. Einkauf: Lieferantenbewertung, Anlieferqualität. Personal: Anzahl Schulungen, Mitarbeitergespräche, Mitarbeiterzufriedenheit.",
+      "source": "Quelle: Kapitel 2 PDF Page 30 mit Mitschrift; Transkript 2026-03-26_2 Zeilen 569-573. Warum: im Unterricht als Aufgabe bearbeitet.",
+      "whyExamRelevant": "",
+      "tags": [
+        "QM",
+        "Kapitel 2",
+        "skill",
+        "P2"
+      ],
+      "updatedAt": "2026-07-16T20:05:47"
+    },
+    {
+      "id": "QM-K02-S04",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 2,
+      "chapter": "Kapitel 2 Qualitätsmanagementsysteme",
+      "kind": "skill",
+      "priority": 2,
+      "front": "ISO 9001 Kontrolle extern bereitgestellter Produkte: Welche Aussagen sind richtig/falsch?",
+      "back": "Richtig: externe Produkte müssen Anforderungen erfüllen; Anbieterbewertung/-auswahl braucht Kriterien und dokumentierte Informationen; QM-Maßnahmen des Zulieferers berücksichtigen. Falsch: 100%-Wareneingangsprüfung ist generell gefordert; Multi-Sourcing ist vorgeschrieben.",
+      "source": "Quelle: Kapitel 2 PDF Page 54 und Page 62; Übungsaufgaben_2_QM.pdf Aufgabe 1d. Warum: direkte Übungsaufgabe zur ISO-9001-Anforderung 8.4.",
+      "whyExamRelevant": "",
+      "tags": [
+        "QM",
+        "Kapitel 2",
+        "skill",
+        "P2"
+      ],
+      "updatedAt": "2026-07-16T20:06:56"
+    },
+    {
+      "id": "QM-K03-M01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 3,
+      "chapter": "Kapitel 3 Qualitätsmanagement in der Beschaffung inkl. 3.6 Wareneingangsprüfung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Nennen Sie die Aufgaben des Qualitätsmanagements im Beschaffungsprozess.",
+      "back": "Strategie der Beschaffung festlegen; Faktoren der Lieferantenauswahl bestimmen; QM-Vertrag verhandeln; Erstmuster prüfen; Wareneingangsprüfung; Lieferanten beurteilen; Felddaten analysieren.",
+      "source": "Kapitel 3 PDF Page 6/48; Kapitel 3.6 PDF Page 3; Transkript 2026-07-03 Zeilen 1104-1105.",
+      "whyExamRelevant": "Kapitel 3 kommt laut letzter Stunde komplett dran; diese Frage steht direkt in den Wiederholungsfragen.",
+      "tags": [
+        "QM",
+        "Kapitel 3",
+        "memorize",
+        "Wiederholungsfrage"
+      ],
+      "updatedAt": "2026-07-16T20:05:51"
+    },
+    {
+      "id": "QM-K03-M02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 3,
+      "chapter": "Kapitel 3 Qualitätsmanagement in der Beschaffung inkl. 3.6 Wareneingangsprüfung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was fordert ISO 9001 bei extern bereitgestellten Prozessen, Produkten und Dienstleistungen?",
+      "back": "Externe Anbieter nach Kriterien beurteilen, auswählen und überwachen; Ergebnisse dokumentieren; sicherstellen, dass externe Produkte die Anforderungen erfüllen. Keine automatische 100%-Wareneingangsprüfung.",
+      "source": "Kapitel 3 PDF Page 5; Übungsaufgaben II Aufgabe 1d; Transkript 2026-03-26_2 Zeilen 1321-1330.",
+      "whyExamRelevant": "Steht als Multiple-Choice in den Übungsaufgaben; Lehrer erklärte ausdrücklich, dass 100%-Kontrolle nicht zwingend ist.",
+      "tags": [
+        "QM",
+        "Kapitel 3",
+        "ISO9001",
+        "exercise"
+      ],
+      "updatedAt": "2026-07-16T20:05:51"
+    },
+    {
+      "id": "QM-K03-M03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 3,
+      "chapter": "Kapitel 3 Qualitätsmanagement in der Beschaffung inkl. 3.6 Wareneingangsprüfung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Nennen Sie Punkte einer Qualitätsmanagementvereinbarung mit Lieferanten.",
+      "back": "Lieferantenaudits; Informations- und Dokumentationspflichten; QM in der Entwicklung mit Q-Gates; QM in der Serie mit Fähigkeitskennzahlen; Reklamationsmanagement; Produkthaftpflicht-/Rückrufversicherung; Gewährleistung/Nutzung.",
+      "source": "Kapitel 3 PDF Page 24/48.",
+      "whyExamRelevant": "Steht direkt in den Wiederholungsfragen; Liste ist klausurtypisch als Nennen-Frage.",
+      "tags": [
+        "QM",
+        "Kapitel 3",
+        "memorize",
+        "Wiederholungsfrage"
+      ],
+      "updatedAt": "2026-07-16T20:05:51"
+    },
+    {
+      "id": "QM-K03-M04",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 3,
+      "chapter": "Kapitel 3 Qualitätsmanagement in der Beschaffung inkl. 3.6 Wareneingangsprüfung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was ist ein Erstmuster und wozu dient die Erstmusterprüfung?",
+      "back": "Erstmuster: erstmals unter Serienbedingungen gefertigtes Teil. Es wird vollständig geprüft, z. B. Maße, Werkstoff, Funktion. Ziel: Abweichungen vor Serienbeginn erkennen; nach Freigabe Referenz für den Qualitätsstandard.",
+      "source": "Kapitel 3 PDF Page 25/48.",
+      "whyExamRelevant": "Steht direkt in den Wiederholungsfragen; Antwort ist kurz und gut abfragbar.",
+      "tags": [
+        "QM",
+        "Kapitel 3",
+        "memorize",
+        "Wiederholungsfrage"
+      ],
+      "updatedAt": "2026-07-16T20:05:51"
+    },
+    {
+      "id": "QM-K03-M05",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 3,
+      "chapter": "Kapitel 3 Qualitätsmanagement in der Beschaffung inkl. 3.6 Wareneingangsprüfung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was sind Ziele der Lieferantenbeurteilung?",
+      "back": "ISO-9001-Forderung erfüllen; Verbesserungspotenziale an Lieferanten rückmelden; internes Risiko- und Qualitätsmanagement unterstützen; gesicherte Informationen für den Einkauf bereitstellen.",
+      "source": "Kapitel 3 PDF Page 30/48.",
+      "whyExamRelevant": "Steht direkt in den Wiederholungsfragen.",
+      "tags": [
+        "QM",
+        "Kapitel 3",
+        "memorize",
+        "Wiederholungsfrage"
+      ],
+      "updatedAt": "2026-07-16T20:05:51"
+    },
+    {
+      "id": "QM-K03-M06",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 3,
+      "chapter": "Kapitel 3 Qualitätsmanagement in der Beschaffung inkl. 3.6 Wareneingangsprüfung",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Warum wird eine Wareneingangsprüfung durchgeführt?",
+      "back": "Damit nur Teile weiterverarbeitet werden, die Qualitätsanforderungen erfüllen. Wichtig wegen interner Abläufe, Endproduktqualität und Produkthaftung; besonders Dokumente und kritische Merkmale prüfen.",
+      "source": "Kapitel 3.6 PDF Page 5; Transkript 2026-04-09 Zeilen 1-9.",
+      "whyExamRelevant": "Kapitel 3.6 ist laut letzter Stunde inklusive; Lehrer begann die Stunde genau mit Zweck und Haftungsgrund.",
+      "tags": [
+        "QM",
+        "Kapitel 3.6",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T20:05:51"
+    },
+    {
+      "id": "QM-K03-M07",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 3,
+      "chapter": "Kapitel 3 Qualitätsmanagement in der Beschaffung inkl. 3.6 Wareneingangsprüfung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was bedeutet AQL und welche Grundregel gilt?",
+      "back": "AQL = Acceptance Quality Limit, annehmbare Qualitätsgrenzlage. Die Zahl legt den Stichprobenplan fest; sie ist kein Recht, fehlerhafte Teile zu liefern. Grundregel: tatsächlicher Fehleranteil in der Produktion maximal halb so groß wie AQL.",
+      "source": "Kapitel 3.6 PDF Page 12; Transkript 2026-04-09 Zeilen 172-200 und 405-410.",
+      "whyExamRelevant": "Lehrer betonte die Halb-AQL-Regel und rechnete daran das Herstellerrisiko vor.",
+      "tags": [
+        "QM",
+        "Kapitel 3.6",
+        "AQL",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T20:05:51"
+    },
+    {
+      "id": "QM-K03-M08",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 3,
+      "chapter": "Kapitel 3 Qualitätsmanagement in der Beschaffung inkl. 3.6 Wareneingangsprüfung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Beschreiben Sie die Prüfdynamisierung und ihre Entscheidungskriterien.",
+      "back": "Start: normale Prüfung. Reduzierte Prüfung nach 10 angenommenen Losen in Folge. Zurück zu normal, sobald ein Los zurückgewiesen wird. Verschärfte Prüfung, wenn 2 von 5 Losen zurückgewiesen werden. Zurück zu normal nach 5 angenommenen Losen in Folge.",
+      "source": "Kapitel 3.6 PDF Page 27/32; Übungsaufgaben I Aufgabe 3a; Transkript 2026-04-09 Zeilen 798-800.",
+      "whyExamRelevant": "Steht in Wiederholungsfragen und Übungsaufgaben; Lehrer verwies ausdrücklich auf das Bild mit Entscheidungskriterien.",
+      "tags": [
+        "QM",
+        "Kapitel 3.6",
+        "Pr?fdynamisierung",
+        "memorize",
+        "exercise"
+      ],
+      "updatedAt": "2026-07-16T20:05:51"
+    },
+    {
+      "id": "QM-K03-S01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 3,
+      "chapter": "Kapitel 3 Qualitätsmanagement in der Beschaffung inkl. 3.6 Wareneingangsprüfung",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Erklären Sie die Einfach-Stichprobenanweisung (110-2).",
+      "back": "Ziehe zufällig eine Stichprobe von 110 Teilen aus dem Los. Nimm das Los an, wenn höchstens 2 fehlerhafte Teile gefunden werden; lehne bei 3 oder mehr Fehlern ab.",
+      "source": "Kapitel 3.6 PDF Page 31; Transkript 2026-04-09 Zeilen 761-779.",
+      "whyExamRelevant": "Steht direkt in den Wiederholungsfragen und wurde vom Lehrer in Worten korrigiert.",
+      "tags": [
+        "QM",
+        "Kapitel 3.6",
+        "skill",
+        "sampling"
+      ],
+      "updatedAt": "2026-07-16T20:05:51"
+    },
+    {
+      "id": "QM-K03-S02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 3,
+      "chapter": "Kapitel 3 Qualitätsmanagement in der Beschaffung inkl. 3.6 Wareneingangsprüfung",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Erklären Sie die Doppel-Stichprobenanweisung (80-2/5-6/7).",
+      "back": "1. Stichprobe: 80 Teile prüfen. Annahme bei 0-2 Fehlern, Rückweisung bei 5 oder mehr. Bei 3-4 Fehlern zweite Stichprobe mit 80 Teilen ziehen. Beide Stichproben zusammen: Annahme bis 6 Fehler, Rückweisung ab 7 Fehlern.",
+      "source": "Kapitel 3.6 PDF Page 32; Transkript 2026-04-09 Zeilen 787-793.",
+      "whyExamRelevant": "Steht direkt in den Wiederholungsfragen; typische Verständnis-/Anwendungsfrage.",
+      "tags": [
+        "QM",
+        "Kapitel 3.6",
+        "skill",
+        "sampling"
+      ],
+      "updatedAt": "2026-07-16T20:05:51"
+    },
+    {
+      "id": "QM-K03-S03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 3,
+      "chapter": "Kapitel 3 Qualitätsmanagement in der Beschaffung inkl. 3.6 Wareneingangsprüfung",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Wie bestimmen Sie nach ISO 2859 einen Einfach- und Doppelstichprobenplan?",
+      "back": "Vorgehen: Losumfang N + Prüfniveau -> Kennbuchstabe; Kennbuchstabe + AQL -> Plan. Beispiele: N=300, AQL 1,5, PN II -> H -> Einfach (50-2), Doppel (32-0/3-3/4). N=15000, AQL 1, PN II -> M -> Einfach (315-7), Doppel (200-3/7-8/9).",
+      "source": "Kapitel 3.6 PDF Pages 23-26/31; Übungsaufgaben II Aufgabe 2a; Transkript 2026-04-09 Zeilen 780-793.",
+      "whyExamRelevant": "Diese Tabellenaufgabe steht in Wiederholungsfragen und Übungsaufgaben; daher hohe Priorität.",
+      "tags": [
+        "QM",
+        "Kapitel 3.6",
+        "skill",
+        "AQL",
+        "exercise"
+      ],
+      "updatedAt": "2026-07-16T20:05:51"
+    },
+    {
+      "id": "QM-K03-S04",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 3,
+      "chapter": "Kapitel 3 Qualitätsmanagement in der Beschaffung inkl. 3.6 Wareneingangsprüfung",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Wie rechnen Sie Bernoulli-/Binomialwahrscheinlichkeiten für fehlerhafte Teile?",
+      "back": "Feste Reihenfolge: p^k(1-p)^(n-k). Genau k aus n: C(n,k)p^k(1-p)^(n-k). Mindestens k: Einzelwahrscheinlichkeiten aufsummieren. Beispiel p=0,43,n=5: erste 3 fehlerhaft = 2,6%; genau 3 = 25,8%; mindestens 3 = 37,0%.",
+      "source": "Kapitel 3.6 PDF Pages 13-15; Transkript 2026-04-09 Zeilen 222-345.",
+      "whyExamRelevant": "Lehrer rechnete diese Fälle ausführlich durch; Übungsaufgaben enthalten Wahrscheinlichkeitsrechnungen.",
+      "tags": [
+        "QM",
+        "Kapitel 3.6",
+        "skill",
+        "probability"
+      ],
+      "updatedAt": "2026-07-16T20:05:51"
+    },
+    {
+      "id": "QM-K03-S05",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 3,
+      "chapter": "Kapitel 3 Qualitätsmanagement in der Beschaffung inkl. 3.6 Wareneingangsprüfung",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Wie berechnen und interpretieren Sie Annahmewahrscheinlichkeit, Herstellerrisiko und Abnehmerrisiko bei (80-3)?",
+      "back": "Rechnung: P(Annahme)=P(X<=3)=Summe k=0..3 C(80,k)p^k(1-p)^(80-k). Ablehnung=1-P(Annahme). Bei AQL 1,5: p=0,75% -> Annahme 99,7%, Ablehnung 0,3% = Herstellerrisiko. p=2,0% -> Annahme 92,3% = Abnehmerrisiko, sehr hoch.",
+      "source": "Kapitel 3.6 PDF Pages 16-20; Transkript 2026-04-09 Zeilen 353-430.",
+      "whyExamRelevant": "Lehrer lie? das rechnen und erklärte daran, warum tatsächliche Fehlerquote maximal halbe AQL sein soll.",
+      "tags": [
+        "QM",
+        "Kapitel 3.6",
+        "skill",
+        "AQL",
+        "probability"
+      ],
+      "updatedAt": "2026-07-16T20:05:51"
+    },
+    {
+      "id": "QM-K03-S06",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 3,
+      "chapter": "Kapitel 3 Qualitätsmanagement in der Beschaffung inkl. 3.6 Wareneingangsprüfung",
+      "kind": "skill",
+      "priority": 2,
+      "front": "Wie lösen Sie die Übungsaufgabe: 500 Teile, 40 fehlerhaft, 3 ohne Zurücklegen; Rückweisung bei mindestens einem fehlerhaften Teil?",
+      "back": "Komplement rechnen: P(Rückweisung)=1-P(kein Fehler)=1-[C(460,3)/C(500,3)] = 22,17%. Näherung mit Binomial: 1-0,92^3 = 22,13%.",
+      "source": "Übungsaufgaben II Aufgabe 2b.",
+      "whyExamRelevant": "Explizite Übungsaufgabe zur Prüfungsvorbereitung; nicht direkt Wiederholungsfrage, aber rechenrelevant.",
+      "tags": [
+        "QM",
+        "Kapitel 3.6",
+        "skill",
+        "exercise",
+        "probability"
+      ],
+      "updatedAt": "2026-07-16T20:05:51"
+    },
+    {
+      "id": "QM-K03-S07",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 3,
+      "chapter": "Kapitel 3 Qualitätsmanagement in der Beschaffung inkl. 3.6 Wareneingangsprüfung",
+      "kind": "skill",
+      "priority": 2,
+      "front": "Wie würden Sie ein Ishikawa-Diagramm zum Problem ?im Wareneingang falsche Prüfung durchgeführt? aufbauen?",
+      "back": "5 Gräten möglich: Mensch (Prüfer ungeschult), Methode (Prüfanweisung falsch/unklar), Maschine/Messmittel (falsches Prüfmittel), Material/Information (falsche Zeichnung/Lieferdokumente), Milieu/Management (Zeitdruck, schlechte Kennzeichnung).",
+      "source": "Übungsaufgaben I Aufgabe 4; fachlich Qualitätswerkzeuge Kapitel 6, Anwendungsszenario Wareneingang.",
+      "whyExamRelevant": "Explizite Übungsaufgabe mit Wareneingang-Bezug; als Cross-Topic markiert, später in Kapitel 6 erneut relevant.",
+      "tags": [
+        "QM",
+        "Kapitel 3",
+        "Kapitel 6",
+        "skill",
+        "Ishikawa",
+        "exercise"
+      ],
+      "updatedAt": "2026-07-16T20:05:51"
+    },
+    {
+      "id": "QM-K04-M01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 4,
+      "chapter": "Kapitel 4 Statistische Prozessregelung",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Was ist statistische Prozessregelung (SPC)?",
+      "back": "SPC nutzt Stichproben und statistische Kennwerte, um einen optimierten Prozess stabil zu halten. Man unterscheidet zufällige Streuung und besondere/systematische Ursachen.",
+      "source": "Kapitel 4 PDF Page 15-16.",
+      "whyExamRelevant": "Basisbegriff des Kapitels; hilft bei Regelkarten- und Prozessfähigkeitsfragen.",
+      "tags": [
+        "QM",
+        "Kapitel 4",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T20:20:15"
+    },
+    {
+      "id": "QM-K04-M02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 4,
+      "chapter": "Kapitel 4 Statistische Prozessregelung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Wie viele Stichproben mit welchem Umfang braucht man mindestens für Qualitätsregelkarten?",
+      "back": "Mindestens 20 Stichproben mit je 5 Teilen, also mindestens 100 Teile. Die Stichproben müssen zufällig entnommen werden.",
+      "source": "Kapitel 4 PDF Page 17 und Wiederholungsfrage Page 52-53.",
+      "whyExamRelevant": "Direkte Wiederholungsfrage.",
+      "tags": [
+        "QM",
+        "Kapitel 4",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T20:20:15"
+    },
+    {
+      "id": "QM-K04-M03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 4,
+      "chapter": "Kapitel 4 Statistische Prozessregelung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Welche zwei sinnvollen Kombinationen gibt es bei zweispurigen Qualitätsregelkarten?",
+      "back": "xquer-R-Karte: Mittelwert und Spannweite. xquer-s-Karte: Mittelwert und Standardabweichung.",
+      "source": "Kapitel 4 PDF Page 18 und Wiederholungsfrage Page 52-53.",
+      "whyExamRelevant": "Direkte Wiederholungsfrage.",
+      "tags": [
+        "QM",
+        "Kapitel 4",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T20:20:15"
+    },
+    {
+      "id": "QM-K04-M04",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 4,
+      "chapter": "Kapitel 4 Statistische Prozessregelung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Welche Eingriffsregeln gelten bei Qualitätsregelkarten?",
+      "back": "Verpflichtend: Punkt außerhalb der Eingriffsgrenze. Optional: Trend = 7 Punkte steigen oder fallen nacheinander. Optional: Run = 7 Punkte liegen nacheinander über oder unter dem Zielwert.",
+      "source": "Kapitel 4 PDF Page 21-23 und Lösung Page 53.",
+      "whyExamRelevant": "Direkte Wiederholungsfrage; in der Übung muss man entscheiden, ob eingegriffen wird.",
+      "tags": [
+        "QM",
+        "Kapitel 4",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T20:20:15"
+    },
+    {
+      "id": "QM-K04-M05",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 4,
+      "chapter": "Kapitel 4 Statistische Prozessregelung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Wann ist ein Prozess beherrscht und wann fähig?",
+      "back": "Beherrscht: nur zufällige Streuung, keine systematischen Einflüsse erkennbar. Fähig: beherrscht und produziert innerhalb der geforderten Spezifikationen.",
+      "source": "Kapitel 4 PDF Page 29 und Wiederholungsfrage Page 52-53.",
+      "whyExamRelevant": "Direkte Wiederholungsfrage.",
+      "tags": [
+        "QM",
+        "Kapitel 4",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T20:20:15"
+    },
+    {
+      "id": "QM-K04-M06",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 4,
+      "chapter": "Kapitel 4 Statistische Prozessregelung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was bedeuten Cp und Cpk?",
+      "back": "Cp misst die Streuungsbreite im Verhältnis zur Toleranzbreite. Cpk berücksichtigt zusätzlich die Lage der Verteilung zum nächsten Grenzwert.",
+      "source": "Kapitel 4 PDF Page 32-35 und korrigiertes Bild 4.15 Cpk.pdf.",
+      "whyExamRelevant": "Lehrer sagte am 2026-07-03: Cp/Cpk kommt dran.",
+      "tags": [
+        "QM",
+        "Kapitel 4",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T20:20:15"
+    },
+    {
+      "id": "QM-K04-M07",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 4,
+      "chapter": "Kapitel 4 Statistische Prozessregelung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Nennen Sie Formeln und Richtwerte für Cp und Cpk.",
+      "back": "Cp = (OGW - UGW) / (6s). Cpk = Zkrit / (3s), mit Zkrit = kleinster Abstand vom Mittelwert zur Toleranzgrenze. Richtwert: Cp >= 1,33 und Cpk >= 1,33.",
+      "source": "Kapitel 4 PDF Page 35 und Page 53.",
+      "whyExamRelevant": "Direkte Wiederholungsfrage; mehrfach in Übungen verwendet.",
+      "tags": [
+        "QM",
+        "Kapitel 4",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T20:20:15"
+    },
+    {
+      "id": "QM-K04-M08",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 4,
+      "chapter": "Kapitel 4 Statistische Prozessregelung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Nennen Sie drei Möglichkeiten, wie man den Cpk-Wert verbessern kann.",
+      "back": "Prozess zentrieren; Streuung reduzieren; Toleranz/Spezifikation prüfen oder anpassen, falls technisch zulässig.",
+      "source": "Kapitel 4 PDF Page 54.",
+      "whyExamRelevant": "Direkte Wiederholungsfrage; Cpk hängt an Lage und Streuung.",
+      "tags": [
+        "QM",
+        "Kapitel 4",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T20:20:15"
+    },
+    {
+      "id": "QM-K04-M09",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 4,
+      "chapter": "Kapitel 4 Statistische Prozessregelung",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Was passiert mit dem Vertrauensintervall bei größerem Stichprobenumfang?",
+      "back": "Je größer der Stichprobenumfang, desto schmaler wird das Vertrauensintervall der geschätzten Kennwerte.",
+      "source": "Kapitel 4 PDF Page 49-50 und Richtig/Falsch-Frage Page 54.",
+      "whyExamRelevant": "Direkte Folienaussage und mögliche Richtig/Falsch-Frage.",
+      "tags": [
+        "QM",
+        "Kapitel 4",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T20:20:15"
+    },
+    {
+      "id": "QM-K04-S01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 4,
+      "chapter": "Kapitel 4 Statistische Prozessregelung",
+      "kind": "skill",
+      "priority": 2,
+      "front": "Mittelwert, Spannweite und Standardabweichung berechnen: Was ist das Schema?",
+      "back": "Mittelwert xquer = Summe xi / n. Spannweite R = xmax - xmin. Standardabweichung s mit Stichprobenformel, also durch n-1. Beispiel xi={5,5,4,3,4,7,6,6,4,5}: xquer=4,9; R=4; s≈1,20.",
+      "source": "Kapitel 4 PDF Page 10-12.",
+      "whyExamRelevant": "Grundlage für Regelkarten und Prozessfähigkeitsaufgaben.",
+      "tags": [
+        "QM",
+        "Kapitel 4",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T20:20:15"
+    },
+    {
+      "id": "QM-K04-S02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 4,
+      "chapter": "Kapitel 4 Statistische Prozessregelung",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Regelkarten berechnen und Eingriff entscheiden: Was ist das Schema?",
+      "back": "Pro Stichprobe xquer und R berechnen; xquerquer und Rquer bilden; OEGx=xquerquer+A2*Rquer; UEGx=xquerquer-A2*Rquer; OEGR=D4*Rquer; UEGR=0; danach Eingriffsregeln prüfen.",
+      "source": "Kapitel 4 PDF Page 25-27.",
+      "whyExamRelevant": "Direkte Übung und Wiederholungsfrage.",
+      "tags": [
+        "QM",
+        "Kapitel 4",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T20:20:15"
+    },
+    {
+      "id": "QM-K04-S03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 4,
+      "chapter": "Kapitel 4 Statistische Prozessregelung",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Cp und Cpk aus Messdaten berechnen: Was ist das Schema?",
+      "back": "xquerquer und squer berechnen. Cp=(OGW-UGW)/(6squer). Zkrit=min(OGW-xquerquer, xquerquer-UGW). Cpk=Zkrit/(3squer). Fähig nur, wenn beide >=1,33. Beispiel: OGW=105, UGW=95, xquerquer=99,4, squer=1,3 -> Cp=1,28, Cpk=1,13 -> nicht fähig.",
+      "source": "Kapitel 4 PDF Page 43; Transkript 2026-05-21_2 Zeilen 134-141 und 364-379.",
+      "whyExamRelevant": "Lehrer sagte: Cp/Cpk kommt dran.",
+      "tags": [
+        "QM",
+        "Kapitel 4",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T20:20:15"
+    },
+    {
+      "id": "QM-K04-S04",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 4,
+      "chapter": "Kapitel 4 Statistische Prozessregelung",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Cp/Cpk grafisch mit Kästchen abschätzen: Worauf achten?",
+      "back": "Cp über Toleranzbreite/Prozessstreubreite abschätzen. Cpk über den kleinsten Abstand des Mittelwerts zur Toleranzgrenze abschätzen. Zentriert: Cpk=Cp. Verschoben: Cpk<Cp.",
+      "source": "Kapitel 4 PDF Page 40; Bild 4.15 Cpk.pdf; Transkript 2026-05-21_2 Zeilen 330-360.",
+      "whyExamRelevant": "Lehrer sagt, etwas Ähnliches kommt in der Klausur; Probeklausur nochmals durchnehmen.",
+      "tags": [
+        "QM",
+        "Kapitel 4",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T20:20:15"
+    },
+    {
+      "id": "QM-K04-S05",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 4,
+      "chapter": "Kapitel 4 Statistische Prozessregelung",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Fehlerwahrscheinlichkeit für komplexe Produkte abschätzen: Was ist das Schema?",
+      "back": "ppm in Wahrscheinlichkeit umrechnen: 66 ppm = 66/1.000.000. Grob: Produktfehler ≈ Anzahl Bauteile * Einzelteilfehler. Exakt: P(Fehler)=1-(1-p)^n. Beispiel: 300 Bauteile mit je 66 ppm -> ca. 1,98%.",
+      "source": "Kapitel 4 PDF Page 47 und Page 54; Transkript 2026-05-21_2 Zeilen 108-125.",
+      "whyExamRelevant": "Direkt als Übungs-/Wiederholfrage vorhanden.",
+      "tags": [
+        "QM",
+        "Kapitel 4",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T20:20:15"
+    },
+    {
+      "id": "QM-K04-S06",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 4,
+      "chapter": "Kapitel 4 Statistische Prozessregelung",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Richtig/Falsch zu Cp/Cpk und Vertrauensintervall: Welche sicheren Antworten gelten?",
+      "back": "Je kleiner der Fähigkeitskennwert, desto besser: falsch. Cp berücksichtigt Lage: falsch. Prozess zentriert => Cpk immer 1: falsch, dann Cpk=Cp. Größerer Stichprobenumfang => kleineres Vertrauensintervall: richtig.",
+      "source": "Kapitel 4 PDF Page 54.",
+      "whyExamRelevant": "Direkte Wiederholungsfrage im Richtig/Falsch-Stil.",
+      "tags": [
+        "QM",
+        "Kapitel 4",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T20:20:15"
+    },
+    {
+      "id": "QM-K05-M01",
+      "course": "QM",
+      "chapterNo": 5,
+      "chapter": "Kapitel 5 Messsysteme",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was sind Lehren?",
+      "back": "Lehren verkörpern Maß oder Form eines Merkmals. Sie liefern nur Gut/Schlecht, keinen Messwert. Gutseite muss ohne Zwang passen; Ausschussseite darf nicht passen.",
+      "source": "Kapitel 5 PDF S. 18-23 und S. 59; Transkript 2026-05-21_3 Zeilen 197-202",
+      "whyExamRelevant": "Hohe Wahrscheinlichkeit als kurze Definitionsfrage oder als Lehren-Anwendungsfall.",
+      "tags": [],
+      "updatedAt": "2026-07-16T18:42:18+00:00"
+    },
+    {
+      "id": "QM-K05-M02",
+      "course": "QM",
+      "chapterNo": 5,
+      "chapter": "Kapitel 5 Messsysteme",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Was sind Normale?",
+      "back": "Normale dienen zum Einstellen und Überwachen von Prüfmitteln. Sie haben einen bekannten, sehr genauen Referenzwert.",
+      "source": "Kapitel 5 PDF S. 25 und S. 59; Transkript 2026-05-21_3 Zeilen 242-246",
+      "whyExamRelevant": "Geeignet für kurze Begriffsabfrage.",
+      "tags": [],
+      "updatedAt": "2026-07-16T18:42:18+00:00"
+    },
+    {
+      "id": "QM-K05-M03",
+      "course": "QM",
+      "chapterNo": 5,
+      "chapter": "Kapitel 5 Messsysteme",
+      "kind": "memorize",
+      "priority": 3,
+      "front": "Erläutern Sie die Kalibrierkette.",
+      "back": "Prüfmittel -> Gebrauchsnormal/Werksnormal -> Bezugsnormal -> nationales Normal. Zweck: Rückführbarkeit des Prüfmittels auf ein höheres Normal.",
+      "source": "Kapitel 5 PDF S. 30 und S. 59; Transkript 2026-05-21_3 Zeilen 267-269",
+      "whyExamRelevant": "Typische kurze Erläuterungsfrage mit Kettenlogik.",
+      "tags": [],
+      "updatedAt": "2026-07-16T18:42:18+00:00"
+    },
+    {
+      "id": "QM-K05-M04",
+      "course": "QM",
+      "chapterNo": 5,
+      "chapter": "Kapitel 5 Messsysteme",
+      "kind": "memorize",
+      "priority": 4,
+      "front": "Nennen Sie Einflussfaktoren auf das Messergebnis.",
+      "back": "Mensch, Umwelt, Messmittel, Messobjekt, Messmethode, Auswertemethode.",
+      "source": "Kapitel 5 PDF S. 39 und S. 59",
+      "whyExamRelevant": "Klassische Aufzählungsfrage.",
+      "tags": [],
+      "updatedAt": "2026-07-16T18:42:18+00:00"
+    },
+    {
+      "id": "QM-K05-M05",
+      "course": "QM",
+      "chapterNo": 5,
+      "chapter": "Kapitel 5 Messsysteme",
+      "kind": "memorize",
+      "priority": 5,
+      "front": "Aus welchen Untersuchungen besteht die Messsystemanalyse?",
+      "back": "Auflösung, cg/cgk-Studie, R&R-Studie, Linearität, zeitliche Stabilität.",
+      "source": "Kapitel 5 PDF S. 43 und S. 60; Transkript 2026-05-21_3 Zeilen 82-85",
+      "whyExamRelevant": "Sehr prüfungsnah, weil Kapitel 5 explizit mit Messsystemanalyse angekündigt wurde.",
+      "tags": [],
+      "updatedAt": "2026-07-16T18:42:18+00:00"
+    },
+    {
+      "id": "QM-K05-M06",
+      "course": "QM",
+      "chapterNo": 5,
+      "chapter": "Kapitel 5 Messsysteme",
+      "kind": "memorize",
+      "priority": 6,
+      "front": "Unterschied zwischen Wiederholpräzision und Vergleichspräzision?",
+      "back": "Wiederholpräzision: gleicher Prüfer, gleiches Objekt, gleiche Bedingungen, mehrfach messen. Vergleichspräzision: Messwerte unter wechselnden Bedingungen, z. B. Prüfer, Objekte oder Geräte.",
+      "source": "Kapitel 5 PDF S. 45; Transkript 2026-05-21_3 Zeilen 90-102",
+      "whyExamRelevant": "Kann als Begriffsunterscheidung oder R&R-Verständnisfrage kommen.",
+      "tags": [],
+      "updatedAt": "2026-07-16T18:42:18+00:00"
+    },
+    {
+      "id": "QM-K05-M07",
+      "course": "QM",
+      "chapterNo": 5,
+      "chapter": "Kapitel 5 Messsysteme",
+      "kind": "memorize",
+      "priority": 7,
+      "front": "Wie lauten die Grenzwerte für Prüfmittelfähigkeit?",
+      "back": "cg und cgk mindestens 1,33. Neues Messsystem: %R&R < 20%. Bestehendes Messsystem: %R&R < 30%.",
+      "source": "Kapitel 5 PDF S. 47, S. 50 und S. 59",
+      "whyExamRelevant": "Kann als kurze Abfrage oder Bewertungsaufgabe kommen.",
+      "tags": [],
+      "updatedAt": "2026-07-16T18:42:18+00:00"
+    },
+    {
+      "id": "QM-K05-M08",
+      "course": "QM",
+      "chapterNo": 5,
+      "chapter": "Kapitel 5 Messsysteme",
+      "kind": "memorize",
+      "priority": 8,
+      "front": "Welche Auswirkung hat Messunsicherheit für die Fertigung?",
+      "back": "Messunsicherheit verringert den nutzbaren Toleranzbereich. Der Übereinstimmungsbereich ist der Toleranzbereich minus Messunsicherheit.",
+      "source": "Kapitel 5 PDF S. 42 und S. 60",
+      "whyExamRelevant": "Kann als kurze Erklärung zur Grafik oder als Verständnisfrage kommen.",
+      "tags": [],
+      "updatedAt": "2026-07-16T18:42:18+00:00"
+    },
+    {
+      "id": "QM-K05-M09",
+      "course": "QM",
+      "chapterNo": 5,
+      "chapter": "Kapitel 5 Messsysteme",
+      "kind": "memorize",
+      "priority": 9,
+      "front": "Was kann der Prüfplaner tun, um den Übereinstimmungsbereich möglichst groß zu halten?",
+      "back": "Ein Messsystem mit möglichst kleiner Messunsicherheit wählen und die Einflussfaktoren beherrschen: geeignetes Messmittel, Methode, Umgebung, Prüfer und Prüfobjekt.",
+      "source": "Kapitel 5 PDF S. 42 und S. 60",
+      "whyExamRelevant": "Direkt aus der Wiederholfragenfolie ableitbar und eng mit Messunsicherheit verbunden.",
+      "tags": [],
+      "updatedAt": "2026-07-16T18:42:18+00:00"
+    },
+    {
+      "id": "QM-K05-M10",
+      "course": "QM",
+      "chapterNo": 5,
+      "chapter": "Kapitel 5 Messsysteme",
+      "kind": "memorize",
+      "priority": 10,
+      "front": "Was steht in einem Prüfplan?",
+      "back": "Die W-Fragen der Prüfung: was, wann, wie viel, wie, wo, womit, wie oft, wer. Nicht enthalten: das Messergebnis.",
+      "source": "Kapitel 5 PDF S. 55-58; Transkript 2026-05-21_3 Zeilen 148-165",
+      "whyExamRelevant": "Prüfplanerstellung ist eigener Abschnitt und gut als Anwendungsfrage geeignet.",
+      "tags": [],
+      "updatedAt": "2026-07-16T18:42:18+00:00"
+    },
+    {
+      "id": "QM-K05-S01",
+      "course": "QM",
+      "chapterNo": 5,
+      "chapter": "Kapitel 5 Messsysteme",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Wenden Sie die 5%-Regel der Auflösung an.",
+      "back": "Regel: Auflösung <= 5% der Merkmalstoleranz = Toleranz / 20. Beispiel: T = 1 mm -> erforderliche Auflösung <= 0,05 mm.",
+      "source": "Kapitel 5 PDF S. 44 und S. 59; Transkript 2026-05-21_3 Zeilen 86-89",
+      "whyExamRelevant": "Sehr wahrscheinliche kleine Rechen- oder Entscheidungsaufgabe.",
+      "tags": [],
+      "updatedAt": "2026-07-16T18:42:18+00:00"
+    },
+    {
+      "id": "QM-K05-S02",
+      "course": "QM",
+      "chapterNo": 5,
+      "chapter": "Kapitel 5 Messsysteme",
+      "kind": "skill",
+      "priority": 2,
+      "front": "Entscheiden Sie die drei Lehren-Fälle.",
+      "back": "Gut: Gutseite passt, Ausschussseite passt nicht. Zu klein: Gutseite passt nicht, Ausschussseite passt nicht. Zu groß: Gutseite passt, Ausschussseite passt.",
+      "source": "Kapitel 5 PDF S. 18-23; Transkript 2026-05-21_3 Zeilen 197-202",
+      "whyExamRelevant": "Kann als Bild-/Schemaaufgabe kommen.",
+      "tags": [],
+      "updatedAt": "2026-07-16T18:42:18+00:00"
+    },
+    {
+      "id": "QM-K05-S03",
+      "course": "QM",
+      "chapterNo": 5,
+      "chapter": "Kapitel 5 Messsysteme",
+      "kind": "skill",
+      "priority": 3,
+      "front": "Bewerten Sie cg/cgk oder R&R.",
+      "back": "Bei gegebenen Formeln Werte einsetzen und mit Grenzwerten vergleichen: cg/cgk >= 1,33; neues Messsystem %R&R < 20%; bestehendes Messsystem %R&R < 30%.",
+      "source": "Kapitel 5 PDF S. 47-52 und S. 59; Transkript 2026-05-21_3 Zeilen 82-110",
+      "whyExamRelevant": "Formeln laut Winz nicht vorrangig auswendig lernen; Interpretation und Bewertung sind aber prüfungsnah.",
+      "tags": [],
+      "updatedAt": "2026-07-16T18:42:18+00:00"
+    },
+    {
+      "id": "QM-K05-S04",
+      "course": "QM",
+      "chapterNo": 5,
+      "chapter": "Kapitel 5 Messsysteme",
+      "kind": "skill",
+      "priority": 4,
+      "front": "Rechnen Sie Durchschlupf und Konfusionsmatrix.",
+      "back": "Aus Ausschussrate, Erkennungswahrscheinlichkeit und falscher Aussortierung berechnen: tatsächlich defekte Teile, defekte Teile beim Kunden, aussortierte Teile, Genauigkeit und Fehlerrate.",
+      "source": "Kapitel 5 PDF S. 36-38",
+      "whyExamRelevant": "Wenn eine Rechenaufgabe aus Kapitel 5 kommt, ist dies die konkrete Skriptaufgabe.",
+      "tags": [],
+      "updatedAt": "2026-07-16T18:42:18+00:00"
+    },
+    {
+      "id": "QM-K05-S05",
+      "course": "QM",
+      "chapterNo": 5,
+      "chapter": "Kapitel 5 Messsysteme",
+      "kind": "skill",
+      "priority": 5,
+      "front": "Erstellen oder prüfen Sie einen Prüfplan.",
+      "back": "Zu einem Merkmal die W-Fragen angeben: was, wann, wie viel, wie, wo, womit, wie oft, wer. Messergebnis gehört nicht in den Prüfplan.",
+      "source": "Kapitel 5 PDF S. 55-58; Transkript 2026-05-21_3 Zeilen 148-165",
+      "whyExamRelevant": "Kann als kurze Anwendungs-/Strukturierungsaufgabe kommen.",
+      "tags": [],
+      "updatedAt": "2026-07-16T18:42:18+00:00"
+    },
+    {
+      "id": "QM-K06-M01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 6,
+      "chapter": "Kapitel 6 Qualitätswerkzeuge",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Nennen Sie die sieben Qualitätswerkzeuge Q7 nach Ishikawa.",
+      "back": "Fehlersammelliste; Histogramm; Qualitätsregelkarte; Paretodiagramm; Brainstorming; Korrelationsdiagramm; Ursache-Wirkungsdiagramm / Ishikawa-Diagramm.",
+      "source": "Kapitel 6 PDF S. 4 und S. 44; Transkript 2026-07-03 Zeilen 1116-1120",
+      "whyExamRelevant": "Sehr hohe Wahrscheinlichkeit als Aufzählungsfrage.",
+      "tags": [
+        "QM",
+        "Kapitel 6",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T21:41:45"
+    },
+    {
+      "id": "QM-K06-M02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 6,
+      "chapter": "Kapitel 6 Qualitätswerkzeuge",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was ist eine Fehlersammelliste und was ist bei der Anwendung zu beachten?",
+      "back": "Sie zählt Fehlerarten mit Strichen/Häufigkeiten. Beachten: wenige Fehlerarten; klar abgrenzen; für Mitarbeiter erkennbar; Feld \"Sonstiges\"; zuerst Probelauf/Pilot.",
+      "source": "Kapitel 6 PDF S. 6 und S. 44; Transkript 2026-05-21_4 Zeilen 2-62",
+      "whyExamRelevant": "Hohe Wahrscheinlichkeit als kurze Regel-/Verständnisfrage.",
+      "tags": [
+        "QM",
+        "Kapitel 6",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T21:41:45"
+    },
+    {
+      "id": "QM-K06-M03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 6,
+      "chapter": "Kapitel 6 Qualitätswerkzeuge",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Welche Bereiche des visuellen Managements können unterschieden werden?",
+      "back": "Informationsvermittlung; Kommunikation von Kennzahlen; Kommunikation von Vorgehensweisen; visuelle Gestaltung von Arbeitsstandards und Erkennen von Unregelmäßigkeiten.",
+      "source": "Kapitel 6 PDF S. 20-21 und S. 44; Transkript 2026-07-03 Zeile 1121",
+      "whyExamRelevant": "Sehr gute kurze Aufzählungsfrage.",
+      "tags": [
+        "QM",
+        "Kapitel 6",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T21:41:45"
+    },
+    {
+      "id": "QM-K06-M04",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 6,
+      "chapter": "Kapitel 6 Qualitätswerkzeuge",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was besagt das Paretoprinzip?",
+      "back": "Die meisten Auswirkungen eines Problems, ungefähr 80%, entstehen oft durch wenige Ursachen, ungefähr 20%. Daher zuerst die größten Fehlerursachen bearbeiten.",
+      "source": "Kapitel 6 PDF S. 8, S. 9-12 und S. 45; Transkript 2026-05-21_4 Zeilen 71-120",
+      "whyExamRelevant": "Hohe Wahrscheinlichkeit als Definition oder Einstieg in eine Pareto-Aufgabe.",
+      "tags": [
+        "QM",
+        "Kapitel 6",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T21:41:45"
+    },
+    {
+      "id": "QM-K06-M05",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 6,
+      "chapter": "Kapitel 6 Qualitätswerkzeuge",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was ist der Grundgedanke von Poka Yoke?",
+      "back": "Menschen machen Fehler. Einfache technische Hilfsmittel sollen Fehlhandlungen verhindern oder sofort sichtbar machen, bevor Fehler weitergegeben werden.",
+      "source": "Kapitel 6 PDF S. 27-40 und S. 45; Transkript 2026-07-03 Zeilen 1120-1123",
+      "whyExamRelevant": "Sehr wahrscheinlich als kurze Begriffserklärung oder Anwendungsaufgabe.",
+      "tags": [
+        "QM",
+        "Kapitel 6",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T21:41:45"
+    },
+    {
+      "id": "QM-K06-M06",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 6,
+      "chapter": "Kapitel 6 Qualitätswerkzeuge",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Wozu dient die 8D-Methode?",
+      "back": "Zur systematischen Bearbeitung von Reklamationen und komplexen Fehlern im Team: Problem beschreiben, Ursache finden, Maßnahmen festlegen, Wiederholung verhindern.",
+      "source": "Kapitel 6 PDF S. 26; Transkript 2026-07-03 Zeilen 1116-1123",
+      "whyExamRelevant": "Möglich als kurze Verständnisfrage, aber weniger stark belegt als Q7/Pareto/Poka Yoke.",
+      "tags": [
+        "QM",
+        "Kapitel 6",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T21:41:45"
+    },
+    {
+      "id": "QM-K06-M07",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 6,
+      "chapter": "Kapitel 6 Qualitätswerkzeuge",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Welche Regeln gelten beim Brainstorming?",
+      "back": "Alle Ideen sichtbar notieren; keine Kritik während der Sammlung; auch scheinbar unsinnige Ideen zulassen; Quantität vor Qualität; Auswahl erst danach.",
+      "source": "Kapitel 6 PDF S. 16-17; Transkript 2026-05-21_4 Zeilen 217-272",
+      "whyExamRelevant": "Kann als Detailfrage zu einem Q7-Werkzeug kommen.",
+      "tags": [
+        "QM",
+        "Kapitel 6",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T21:41:45"
+    },
+    {
+      "id": "QM-K06-S01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 6,
+      "chapter": "Kapitel 6 Qualitätswerkzeuge",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Erstellen Sie ein Pareto-Diagramm aus Fehlerhäufigkeiten.",
+      "back": "1. Summe je Fehlerart bilden. 2. Gesamtsumme bilden. 3. Prozent je Fehlerart berechnen. 4. Absteigend sortieren. 5. Kumulierte Prozente berechnen. 6. Säulen = Fehlerprozente, Linie = kumulierte Prozente. 7. Bei ca. 80% wichtigste Fehlerarten priorisieren.",
+      "source": "Kapitel 6 PDF S. 9-12; Transkript 2026-05-21_4 Zeilen 91-120; Transkript 2026-07-03 Zeilen 1161-1163",
+      "whyExamRelevant": "Sehr wahrscheinlich als kleine Rechen-/Diagrammaufgabe.",
+      "tags": [
+        "QM",
+        "Kapitel 6",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T21:41:45"
+    },
+    {
+      "id": "QM-K06-S02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 6,
+      "chapter": "Kapitel 6 Qualitätswerkzeuge",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Erstellen Sie ein Ishikawa-Diagramm zu einem Problem.",
+      "back": "Problem rechts in den Kopf. Hauptgräten mit 5M: Mensch, Maschine, Material, Methode, Mitwelt. Pro Gräte konkrete Ursachen eintragen.",
+      "source": "Kapitel 6 PDF S. 13-14 und S. 38; Transkript 2026-05-21_4 Zeilen 121-183",
+      "whyExamRelevant": "Wahrscheinlich als Zeichen-/Strukturierungsaufgabe.",
+      "tags": [
+        "QM",
+        "Kapitel 6",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T21:41:45"
+    },
+    {
+      "id": "QM-K06-S03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 6,
+      "chapter": "Kapitel 6 Qualitätswerkzeuge",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Schlagen Sie Poka-Yoke-Maßnahmen für einen manuellen Arbeitsablauf vor.",
+      "back": "Entnahme/Position prüfen: Sensor, Lichtschranke, Kontaktmethode. Reihenfolge sichern: Schrittfolgenmethode/Freigabe erst nach richtigem Schritt. Anzahl/Fixwert sichern: Zähler, Lampe, Quittiertaste. Fehler melden: Warnsignal/Lampe/Ton.",
+      "source": "Kapitel 6 PDF S. 35-40 und S. 45; Transkript 2026-07-03 Zeilen 1120-1123",
+      "whyExamRelevant": "Sehr prüfungsnah als Anwendungsfrage.",
+      "tags": [
+        "QM",
+        "Kapitel 6",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T21:41:45"
+    },
+    {
+      "id": "QM-K06-S04",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 6,
+      "chapter": "Kapitel 6 Qualitätswerkzeuge",
+      "kind": "skill",
+      "priority": 2,
+      "front": "Wählen Sie das passende Q7-Werkzeug für eine Situation.",
+      "back": "Fehlersammelliste: Fehler zählen. Histogramm: Messwertverteilung zeigen. Qualitätsregelkarte: Prozess über Zeit überwachen. Pareto: wichtigste Fehlerarten priorisieren. Ishikawa: Ursachen strukturieren. Korrelationsdiagramm: Zusammenhang zweier Größen erkennen. Brainstorming: viele Ideen sammeln.",
+      "source": "Kapitel 6 PDF S. 4-17 und S. 44; Transkript 2026-05-21_4 Zeilen 274-282",
+      "whyExamRelevant": "Gut geeignet für Verständnis-/Zuordnungsfrage.",
+      "tags": [
+        "QM",
+        "Kapitel 6",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T21:41:45"
+    },
+    {
+      "id": "QM-K07-M01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 7,
+      "chapter": "Kapitel 7 FMEA",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Wofür steht FMEA?",
+      "back": "Failure Mode and Effect Analysis = Fehler-Möglichkeits- und Einfluss-Analyse.",
+      "source": "Kapitel 7 PDF Page 3 und Page 36.",
+      "whyExamRelevant": "Kapitel 7 wurde laut Abschlussbesprechung komplett gemacht; diese Frage steht direkt in den Wiederholungsfragen.",
+      "tags": [
+        "QM",
+        "Kapitel 7",
+        "FMEA",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T22:37:21"
+    },
+    {
+      "id": "QM-K07-M02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 7,
+      "chapter": "Kapitel 7 FMEA",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was bezweckt man mit dem Einsatz der FMEA?",
+      "back": "Vorbeugende Fehlervermeidung und kontinuierliche Verbesserung von Produkten und Prozessen. Kern: Ursache - Fehler - Wirkung früh erkennen.",
+      "source": "Kapitel 7 PDF Page 3 und Page 36.",
+      "whyExamRelevant": "Direkte Wiederholungsfrage; außerdem passt es zu Kapitel 1 Zehner-Regel/präventivem QM.",
+      "tags": [
+        "QM",
+        "Kapitel 7",
+        "FMEA",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T22:37:21"
+    },
+    {
+      "id": "QM-K07-M03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 7,
+      "chapter": "Kapitel 7 FMEA",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Wo wird FMEA im Produktentstehungsprozess sinnvoll eingesetzt?",
+      "back": "Design-FMEA: Entwicklung. Prozess-FMEA: Arbeitsvorbereitung/Produktion. Prozessketten-FMEA: Abläufe und Geschäftsprozesse.",
+      "source": "Kapitel 7 PDF Page 3, Page 5-6 und Page 36.",
+      "whyExamRelevant": "Direkte Wiederholungsfrage; Folien unterscheiden die FMEA-Arten nach Einsatzort.",
+      "tags": [
+        "QM",
+        "Kapitel 7",
+        "FMEA",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T22:37:21"
+    },
+    {
+      "id": "QM-K07-M04",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 7,
+      "chapter": "Kapitel 7 FMEA",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Nenne die Schritte der FMEA-Durchführung in richtiger Reihenfolge.",
+      "back": "1. Vorbereitung, 2. Strukturanalyse, 3. Funktionsanalyse, 4. Fehleranalyse, 5. Bewertung, 6. Maßnahmen, 7. Erfolgskontrolle.",
+      "source": "Kapitel 7 PDF Page 7, Page 16 und Page 37; handschriftliche Markierung auf Page 7.",
+      "whyExamRelevant": "Direkte Wiederholungsfrage; handschriftlich markiert: Reihenfolge können.",
+      "tags": [
+        "QM",
+        "Kapitel 7",
+        "FMEA",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T22:37:21"
+    },
+    {
+      "id": "QM-K07-M05",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 7,
+      "chapter": "Kapitel 7 FMEA",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Welche Kriterien werden bei der FMEA bewertet und wie entsteht die RPZ?",
+      "back": "B = Bedeutung für den Kunden, A = Auftretenswahrscheinlichkeit, E = Entdeckungswahrscheinlichkeit. RPZ = B * A * E.",
+      "source": "Kapitel 7 PDF Page 20, Page 24, Page 26-27 und Page 37.",
+      "whyExamRelevant": "Direkte Wiederholungsfrage; RPZ steht mehrfach im FMEA-Formblatt.",
+      "tags": [
+        "QM",
+        "Kapitel 7",
+        "FMEA",
+        "RPZ",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T22:37:21"
+    },
+    {
+      "id": "QM-K07-M06",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 7,
+      "chapter": "Kapitel 7 FMEA",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Was unterscheidet Design-FMEA und Prozess-FMEA?",
+      "back": "Design-FMEA prüft Produkt/Konstruktion und Komponenten-Zusammenhänge. Prozess-FMEA prüft Fertigungs- und Montageprozess; Konstruktion gilt dabei als anforderungsgerecht.",
+      "source": "Kapitel 7 PDF Page 5-6.",
+      "whyExamRelevant": "Nicht als Wiederholungsfrage formuliert, aber nötig, um Einsatzorte korrekt zu erklären.",
+      "tags": [
+        "QM",
+        "Kapitel 7",
+        "FMEA",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T22:37:21"
+    },
+    {
+      "id": "QM-K07-S01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 7,
+      "chapter": "Kapitel 7 FMEA",
+      "kind": "skill",
+      "priority": 1,
+      "front": "FMEA-Formblatt ausfüllen: Welche Reihenfolge gilt in der Fehlerkette?",
+      "back": "Immer von Folge über Fehler zur Ursache denken. Beispiel Fahrradglocke: Folge Signal < 85 dBA; Fehler Verbiegen des Klöppels / keine Vibration; Ursache Festigkeit des Werkstoffs unzureichend.",
+      "source": "Kapitel 7 PDF Page 14-15, Page 17-23 und Page 29.",
+      "whyExamRelevant": "FMEA wird vollständig geprüft; Formblatt und Beispiel zeigen die typische Anwendung.",
+      "tags": [
+        "QM",
+        "Kapitel 7",
+        "FMEA",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T22:37:21"
+    },
+    {
+      "id": "QM-K07-S02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 7,
+      "chapter": "Kapitel 7 FMEA",
+      "kind": "skill",
+      "priority": 1,
+      "front": "RPZ berechnen und interpretieren.",
+      "back": "B, A und E aus der Tabelle ablesen und multiplizieren: RPZ = B * A * E. Hohe RPZ: Verbesserungsmaßnahmen festlegen. Nach Maßnahme A und E neu bewerten, neue RPZ berechnen.",
+      "source": "Kapitel 7 PDF Page 27-29 und Page 34.",
+      "whyExamRelevant": "RPZ ist direkte Wiederholungsfrage und praktisch einfach prüfbar.",
+      "tags": [
+        "QM",
+        "Kapitel 7",
+        "FMEA",
+        "RPZ",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T22:37:21"
+    },
+    {
+      "id": "QM-K07-S03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 7,
+      "chapter": "Kapitel 7 FMEA",
+      "kind": "skill",
+      "priority": 2,
+      "front": "Strukturanalyse, Funktionsanalyse und Fehleranalyse unterscheiden.",
+      "back": "Strukturanalyse: System in Baugruppen/Bauteile/Merkmale zerlegen. Funktionsanalyse: Funktionen zuordnen. Fehleranalyse: Fehlfunktionen und Ursache-Fehler-Folge-Kette ableiten.",
+      "source": "Kapitel 7 PDF Page 10-15 und Page 32-33.",
+      "whyExamRelevant": "Diese drei Schritte bilden den Kern der FMEA-Durchführung; die Kühlmittelpumpen-Übung trainiert genau das.",
+      "tags": [
+        "QM",
+        "Kapitel 7",
+        "FMEA",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T22:37:21"
+    },
+    {
+      "id": "QM-K07-S04",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 7,
+      "chapter": "Kapitel 7 FMEA",
+      "kind": "skill",
+      "priority": 2,
+      "front": "Kühlmittelpumpen-Übung: Was muss man können?",
+      "back": "Für Bauteil- und Merkmalsebene Funktionen und Fehler ergänzen, z. B. Gehäuse: Kühlmittel aufnehmen; Fehler: Gehäuse undicht. Merkmal Dichtheit/Festigkeit führt zu Ursache/Fehler/Folge.",
+      "source": "Kapitel 7 PDF Page 32-34.",
+      "whyExamRelevant": "Zusatzmaterial, aber nah an FMEA-Anwendung; geeignet als mögliche Anwendungs-/Transferfrage.",
+      "tags": [
+        "QM",
+        "Kapitel 7",
+        "FMEA",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T22:37:21"
+    },
+    {
+      "id": "QM-K10-M01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 10,
+      "chapter": "Kapitel 10 Servicequalität",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Nennen Sie die besonderen Merkmale einer Dienstleistung.",
+      "back": "Uno-Actu-Prinzip: Erstellung und Nutzung fallen zeitlich zusammen.\nKundenintegration: Der Kunde wirkt am Serviceprozess mit.\nIndividualität: Service wird an Kunde und Situation angepasst.\nProzesscharakter: Service ist ein Ablauf, kein statisches Produkt.\nImmaterialitätsgrad: Service ist oft nicht direkt greifbar.",
+      "source": "Kapitel 10 PDF Page 8-9; Wiederholfragen Page 73.",
+      "whyExamRelevant": "Steht wörtlich in den Wiederholfragen und liegt im ausdrücklich relevanten Bereich bis 10.5.",
+      "tags": [
+        "QM",
+        "Kapitel 10",
+        "memorize",
+        "Dienstleistung"
+      ],
+      "updatedAt": "2026-07-16T23:28:16"
+    },
+    {
+      "id": "QM-K10-M02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 10,
+      "chapter": "Kapitel 10 Servicequalität",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Auf was zielt Service Excellence ab?",
+      "back": "Service Excellence zielt darauf ab, Kunden nicht nur zufriedenzustellen, sondern durch überraschend gute Serviceerlebnisse zu begeistern.\nKette: Service Excellence -> Begeisterung -> Kundenbindung -> höhere Margen -> ökonomischer Erfolg.",
+      "source": "Kapitel 10 PDF Page 13, 16, 18; Wiederholfragen Page 73.",
+      "whyExamRelevant": "Steht in den Wiederholfragen; gehört zu Kapitel 10.2 und damit in den relevanten Bereich.",
+      "tags": [
+        "QM",
+        "Kapitel 10",
+        "memorize",
+        "Service Excellence"
+      ],
+      "updatedAt": "2026-07-16T23:28:16"
+    },
+    {
+      "id": "QM-K10-M03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 10,
+      "chapter": "Kapitel 10 Servicequalität",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Nach welchen drei Dimensionen messen Kunden die Servicequalität? Nennen Sie je ein Beispiel.",
+      "back": "Potenzialqualität: z. B. Vorabinformationen, Räumlichkeiten, technische Ausstattung, Verfügbarkeit.\nProzessqualität: z. B. fachliche, methodische, soziale oder kommunikative Kompetenz.\nErgebnisqualität: z. B. Leistung inhaltlich/zeitlich, Preis, Nachkaufbetreuung, Feedback.",
+      "source": "Kapitel 10 PDF Page 24; Schlussbesprechung 2026-07-03 Zeilen 1133-1144; Wiederholfragen Page 73.",
+      "whyExamRelevant": "Der Lehrer sagt ausdrücklich: Kapitel 10.3 sollten Sie lernen. Er nennt genau diese drei Dimensionen und empfiehlt Beispiele aus der Folie.",
+      "tags": [
+        "QM",
+        "Kapitel 10",
+        "memorize",
+        "Dimensionen",
+        "prüfungsstark"
+      ],
+      "updatedAt": "2026-07-16T23:28:16"
+    },
+    {
+      "id": "QM-K10-M04",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 10,
+      "chapter": "Kapitel 10 Servicequalität",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Woraus entsteht wahrgenommene Servicequalität?",
+      "back": "Aus dem Abgleich zwischen erwarteter Serviceleistung und erbrachtem bzw. erlebtem Service. Erwartungen werden beeinflusst durch Erfahrungen aus der Vergangenheit, eigene Bedürfnisse, Markt-/Wettbewerbskenntnisse und Kommunikation.",
+      "source": "Kapitel 10 PDF Page 21-22.",
+      "whyExamRelevant": "Grundlage für Kapitel 10.3 und das GAP-Modell; nicht so stark betont wie die drei Dimensionen, aber nötig zum Verstehen.",
+      "tags": [
+        "QM",
+        "Kapitel 10",
+        "memorize",
+        "Wahrnehmung"
+      ],
+      "updatedAt": "2026-07-16T23:28:16"
+    },
+    {
+      "id": "QM-K10-M05",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 10,
+      "chapter": "Kapitel 10 Servicequalität",
+      "kind": "memorize",
+      "priority": 3,
+      "front": "Wie kann Servicequalität bzw. Kundenbegeisterung gemessen werden?",
+      "back": "Durch Kundenbefragung, Kundenbeobachtung/Testmethoden (z. B. Mystery Shopping) und Sekundäranalysen (z. B. Kundenfeedback, Beschwerdeanalyse, Kündigungsanalyse).",
+      "source": "Kapitel 10 PDF Page 27-28.",
+      "whyExamRelevant": "Gehört zu Kapitel 10.4 und damit in den relevanten Bereich bis 10.5. Keine starke Lehrerbetonung, daher nachrangig.",
+      "tags": [
+        "QM",
+        "Kapitel 10",
+        "memorize",
+        "Messung"
+      ],
+      "updatedAt": "2026-07-16T23:28:16"
+    },
+    {
+      "id": "QM-K10-S01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 10,
+      "chapter": "Kapitel 10 Servicequalität",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Ordne ein Servicebeispiel einer Dimension der Servicequalität zu.",
+      "back": "Vor dem Kontakt / Voraussetzungen -> Potenzialqualität.\nWährend des Kontakts / Verhalten und Kompetenz -> Prozessqualität.\nErgebnis nach dem Service -> Ergebnisqualität.\nBeispiele: Spezialwerkzeug verfügbar = Potenzialqualität; freundliche kompetente Erklärung = Prozessqualität; pünktliche Reparatur und Nachbetreuung = Ergebnisqualität.",
+      "source": "Kapitel 10 PDF Page 24 und Page 29; Schlussbesprechung 2026-07-03 Zeilen 1137-1144.",
+      "whyExamRelevant": "Der Lehrer hat die drei Dimensionen explizit markiert und gesagt, Beispiele aus der Folie zu verwenden.",
+      "tags": [
+        "QM",
+        "Kapitel 10",
+        "skill",
+        "Dimensionen",
+        "prüfungsstark"
+      ],
+      "updatedAt": "2026-07-16T23:28:16"
+    },
+    {
+      "id": "QM-K10-S02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 10,
+      "chapter": "Kapitel 10 Servicequalität",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Erklären Sie das GAP-Modell.",
+      "back": "Das GAP-Modell zeigt Lücken zwischen Kundenerwartung, Unternehmenssicht, Servicevorgaben, Serviceerbringung, Kommunikation und erlebtem Service.\nGAP 1: Kundenerwartung wird vom Unternehmen falsch verstanden.\nGAP 2: Unternehmenssicht wird schlecht in Servicevorgaben übersetzt.\nGAP 3: Vorgaben werden schlecht umgesetzt.\nGAP 4: Kommunikation verspricht mehr/anderes als geliefert wird.\nGAP 5: Erwarteter und erlebter Service passen nicht zusammen.\nMerksatz: Verstehen -> Vorgaben -> Umsetzung -> Kommunikation -> Kundenerlebnis.",
+      "source": "Kapitel 10 PDF Page 35; Wiederholfragen Page 73.",
+      "whyExamRelevant": "Steht wörtlich in den Wiederholfragen. Als Diagramm muss es erklärt werden können.",
+      "tags": [
+        "QM",
+        "Kapitel 10",
+        "skill",
+        "GAP-Modell"
+      ],
+      "updatedAt": "2026-07-16T23:28:16"
+    },
+    {
+      "id": "QM-K10-S03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 10,
+      "chapter": "Kapitel 10 Servicequalität",
+      "kind": "skill",
+      "priority": 3,
+      "front": "Interpretiere ein Merkmal in der Bedeutung/Begeisterung-Matrix.",
+      "back": "Hohe Bedeutung + hohe Begeisterung: Top Performance.\nHohe Bedeutung + niedrige Begeisterung: dringend verbessern.\nNiedrige Bedeutung + hohe Begeisterung: zuviel des Guten.\nNiedrige Bedeutung + niedrige Begeisterung: unwichtig.",
+      "source": "Kapitel 10 PDF Page 30.",
+      "whyExamRelevant": "Gehört zu Kapitel 10.4 im relevanten Bereich. Nicht so stark betont wie 10.3 oder GAP, daher niedriger priorisiert.",
+      "tags": [
+        "QM",
+        "Kapitel 10",
+        "skill",
+        "Matrix",
+        "Messung"
+      ],
+      "updatedAt": "2026-07-16T23:28:16"
+    },
+    {
+      "id": "QM-K11-M01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 11,
+      "chapter": "Kapitel 11 Projektplanung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Nennen Sie drei Verfahren der Terminplanung und ihr bevorzugtes Einsatzgebiet.",
+      "back": "Listentechnik: wenige, überschaubare/lineare Vorgänge.\nBalkendiagrammtechnik/Gantt: begrenzte Anzahl von Vorgängen, gut zur Visualisierung.\nNetzplantechnik: große/komplexe Projekte mit Abhängigkeiten.",
+      "source": "Kapitel 11 PDF Page 12 und Page 46; Transkript 2026-07-03 Zeilen 449-463.",
+      "whyExamRelevant": "Exakte Wiederholfrage; Lehrer fragt in der letzten Stunde genau nach den drei Verfahren und ihrer Anwendung.",
+      "tags": [
+        "QM",
+        "Kapitel 11",
+        "Terminplanung",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T23:27:50"
+    },
+    {
+      "id": "QM-K11-M02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 11,
+      "chapter": "Kapitel 11 Projektplanung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was bedeuten kritischer Pfad und Pufferzeit?",
+      "back": "Kritischer Pfad: Vorgänge ohne Puffer; Verschiebung verschiebt den Projektendtermin.\nPufferzeit: Zeitspanne, um die ein Vorgang verschoben werden kann, ohne die Projektdauer zu verlängern.",
+      "source": "Kapitel 11 PDF Page 11; Übungsaufgaben_3_PQM_ Page 1.",
+      "whyExamRelevant": "Netzplanaufgabe verlangt kritischen Pfad kennzeichnen und Bedeutung erklären.",
+      "tags": [
+        "QM",
+        "Kapitel 11",
+        "Netzplan",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T23:27:50"
+    },
+    {
+      "id": "QM-K11-M03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 11,
+      "chapter": "Kapitel 11 Projektplanung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Nennen Sie die vier Schritte des Risikomanagements.",
+      "back": "1. Risiken identifizieren.\n2. Risiken bewerten.\n3. Risiken steuern.\n4. Risiken laufend überwachen.",
+      "source": "Kapitel 11 PDF Page 28 und Page 46; Transkript 2026-07-03 Zeilen 464-467.",
+      "whyExamRelevant": "Exakte Wiederholfrage; Lehrer sagt, diese Schritte solle man auswendig prägen.",
+      "tags": [
+        "QM",
+        "Kapitel 11",
+        "Risikomanagement",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T23:27:50"
+    },
+    {
+      "id": "QM-K11-M04",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 11,
+      "chapter": "Kapitel 11 Projektplanung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Wie ist das Risikoportfolio aufgebaut und welche Maßnahme passt zu welchem Feld?",
+      "back": "Achsen: Eintrittswahrscheinlichkeit und Auswirkung auf das Projekt.\ngering/gering: Akzeptanz.\nhoch Wahrscheinlichkeit/gering Auswirkung: präventiv.\ngering Wahrscheinlichkeit/hoch Auswirkung: korrektiv.\nhoch/hoch: präventiv und korrektiv.",
+      "source": "Kapitel 11 PDF Page 31; Transkript 2026-07-03 Zeilen 470-478.",
+      "whyExamRelevant": "Lehrer sagt, man solle Portfolio und Achsen können; high/high wurde ausdrücklich als präventiv UND korrektiv genannt.",
+      "tags": [
+        "QM",
+        "Kapitel 11",
+        "Risikoportfolio",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T23:27:50"
+    },
+    {
+      "id": "QM-K11-M05",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 11,
+      "chapter": "Kapitel 11 Projektplanung",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Welche ergänzenden Planungen gehören zur Projektplanung?",
+      "back": "Sachmittelplanung, Dokumentationsplanung, Berichtsplanung, Kostenplanung, Risikoplanung, Meilensteinplanung.",
+      "source": "Kapitel 11 PDF Page 37; Transkript 2026-07-03 Zeilen 306-335 und 1147-1150.",
+      "whyExamRelevant": "Lehrer grenzt Kapitel 11 inklusive ergänzender Planung/Berichte ein; daher als kompakte Liste behalten.",
+      "tags": [
+        "QM",
+        "Kapitel 11",
+        "Erg?nzende Planungen",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T23:27:50"
+    },
+    {
+      "id": "QM-K11-M06",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 11,
+      "chapter": "Kapitel 11 Projektplanung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was ist ein Quality Gate und wozu dient es?",
+      "back": "Ein Quality Gate ist ein Meilenstein, an dem definierte Ergebnisse vorliegen müssen. Eine Checkliste prüft, ob Qualität und Reife ausreichen und ob die nächste Phase freigegeben wird.",
+      "source": "Kapitel 11 PDF Page 39; Transkript 2026-07-03 Zeilen 335-380.",
+      "whyExamRelevant": "Lehrer erklärt Quality Gates ausführlich als Absicherung gegen halbfertige Ergebnisse zwischen Projektphasen.",
+      "tags": [
+        "QM",
+        "Kapitel 11",
+        "Quality Gate",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T23:27:50"
+    },
+    {
+      "id": "QM-K11-M07",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 11,
+      "chapter": "Kapitel 11 Projektplanung",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was ist Simultaneous Engineering? Nennen Sie zwei Vorteile und zwei Nachteile.",
+      "back": "Definition: Sequentielle Entwicklungsphasen werden überlappend gestaltet, um die Projektlaufzeit zu verkürzen.\nVorteile: Zeiteinsparung; bessere Arbeitsqualität durch funktionsübergreifende Integration.\nNachteile: Arbeiten unter Unsicherheit; hoher Ressourcen- und Koordinierungsaufwand.",
+      "source": "Kapitel 11 PDF Page 43-45; Übungsaufgaben_3_PQM_ Page 2; Transkript 2026-07-03 Zeilen 405-448.",
+      "whyExamRelevant": "Direkt in Übungsaufgabe III gefragt; Lehrer erklärt Definition, Vorteile und Nachteile.",
+      "tags": [
+        "QM",
+        "Kapitel 11",
+        "Simultaneous Engineering",
+        "memorize"
+      ],
+      "updatedAt": "2026-07-16T23:27:50"
+    },
+    {
+      "id": "QM-K11-S01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 11,
+      "chapter": "Kapitel 11 Projektplanung",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Netzplan rechnen und zeichnen: Was musst du können?",
+      "back": "1. Vorgänger/Nachfolger aus Tabelle ableiten.\n2. Vorgangsknoten zeichnen.\n3. Vorwärts: FEZ = FAZ + D.\n4. Rückwärts: SAZ = SEZ - D.\n5. Gesamtpuffer: GP = SAZ - FAZ = SEZ - FEZ.\n6. Kritischer Pfad: Vorgänge mit GP = 0.",
+      "source": "Kapitel 11 PDF Page 20 und Page 23; Übungsaufgaben_3_PQM_ Page 1; Transkript 2026-07-03 Zeilen 10-24 und 101-106.",
+      "whyExamRelevant": "Lehrer sagt zur Netzplanaufgabe: 10 Punkte von 90. Übungsaufgabe III ist genau ein Netzplan.",
+      "tags": [
+        "QM",
+        "Kapitel 11",
+        "Netzplan",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T23:27:50"
+    },
+    {
+      "id": "QM-K11-S02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 11,
+      "chapter": "Kapitel 11 Projektplanung",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Risikoportfolio anwenden: Wie gehst du vor?",
+      "back": "1. Eintrittswahrscheinlichkeit bestimmen.\n2. Auswirkung auf das Projekt bestimmen.\n3. In Matrix einordnen.\n4. Maßnahme ableiten: akzeptieren, präventiv, korrektiv oder beides.",
+      "source": "Kapitel 11 PDF Page 31-32; Transkript 2026-07-03 Zeilen 470-478.",
+      "whyExamRelevant": "Lehrer sagt, Portfolio/Achsen und high/high-Maßnahmen müsse man können.",
+      "tags": [
+        "QM",
+        "Kapitel 11",
+        "Risikoportfolio",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T23:27:50"
+    },
+    {
+      "id": "QM-K11-S03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 11,
+      "chapter": "Kapitel 11 Projektplanung",
+      "kind": "skill",
+      "priority": 2,
+      "front": "Simultaneous-Engineering-Grafik erklären: Was ist der Kern?",
+      "back": "Konventionell: Phasen laufen nacheinander.\nSimultaneous Engineering: Phasen überlappen.\nKern: einzelne Phasen können unsicherer/aufwendiger werden, aber das Gesamtprojekt endet früher.",
+      "source": "Kapitel 11 PDF Page 44-45; Übungsaufgaben_3_PQM_ Page 2; Transkript 2026-07-03 Zeilen 405-448.",
+      "whyExamRelevant": "Übungsaufgabe III fragt Simultaneous Engineering direkt; Lehrer erklärt das Diagramm und das Zeitgewinn-Prinzip.",
+      "tags": [
+        "QM",
+        "Kapitel 11",
+        "Simultaneous Engineering",
+        "skill"
+      ],
+      "updatedAt": "2026-07-16T23:27:50"
+    },
+    {
+      "id": "QM-K12-M01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 12,
+      "chapter": "Kapitel 12 Führung von Projektteams",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was ist ein Team? Nennen Sie zusätzlich fünf Merkmale eines erfolgreichen Teams.",
+      "back": "Team: temporärer Zusammenschluss von Personen mit ergänzenden Fähigkeiten, gemeinsamer Sache, gemeinsamen Leistungszielen, gemeinsamem Arbeitsansatz und gegenseitiger Verantwortung. Erfolgreich: starkes Wir-Gefühl, direkte Interaktion, voneinander lernen, gemeinsame Regeln/Normen, gegenseitiger Respekt.",
+      "source": "Kapitel 12 PDF S. 4 und S. 6; Wiederholfragen PDF S. 27; Transkript 2026-07-03 Zeilen 1051-1053 und 657-680.",
+      "whyExamRelevant": "Direkte Wiederholfrage am Kapitelende; Lehrer beantwortet sie in der letzten Stunde direkt.",
+      "tags": [
+        "QM",
+        "Kapitel 12",
+        "memorize",
+        "team"
+      ],
+      "updatedAt": "2026-07-16T23:28:32"
+    },
+    {
+      "id": "QM-K12-M02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 12,
+      "chapter": "Kapitel 12 Führung von Projektteams",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Nennen Sie die vier Phasen des Team-Entwicklungsprozesses nach Tuckman in der richtigen Reihenfolge.",
+      "back": "Forming ? Storming ? Norming ? Performing.",
+      "source": "Kapitel 12 PDF S. 10-12; Wiederholfragen PDF S. 27; Klausur relevante Themen S26 PDF S. 29; Transkript 2026-07-03 Zeilen 1054-1059 und 1179-1180.",
+      "whyExamRelevant": "Steht ausdrücklich auf der Klausur-relevante-Themen-Seite; Lehrer sagt am Ende sinngem??, dass er diese Frage drannehmen kann.",
+      "tags": [
+        "QM",
+        "Kapitel 12",
+        "memorize",
+        "Tuckman"
+      ],
+      "updatedAt": "2026-07-16T23:28:32"
+    },
+    {
+      "id": "QM-K12-M03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 12,
+      "chapter": "Kapitel 12 Führung von Projektteams",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Was passiert in den vier Tuckman-Phasen kurz?",
+      "back": "Forming: Orientierung, Unsicherheit, starke Abhängigkeit vom Leiter. Storming: Konflikte, Polarisierung, Widerstand gegen Kontrolle. Norming: Regeln/Normen entstehen, Konflikte nehmen ab. Performing: teamorientiertes Arbeiten, Energie geht in die gemeinsame Aufgabe.",
+      "source": "Kapitel 12 PDF S. 11; Transkript 2026-07-03 Zeilen 1056-1063.",
+      "whyExamRelevant": "Lehrer sagt ausdrücklich: Wenn nach Forming/Storming gefragt wird, soll man sagen können, was gemeint ist; theoretisch oder anwendungsbezogen möglich.",
+      "tags": [
+        "QM",
+        "Kapitel 12",
+        "memorize",
+        "Tuckman"
+      ],
+      "updatedAt": "2026-07-16T23:28:32"
+    },
+    {
+      "id": "QM-K12-M04",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 12,
+      "chapter": "Kapitel 12 Führung von Projektteams",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Welche drei Fähigkeitskategorien braucht ein Projektteam?",
+      "back": "Fachliche/funktionale Sachkenntnis; Fähigkeit zur Problemlösung und Entscheidungsfindung; Fähigkeit im Umgang miteinander.",
+      "source": "Kapitel 12 PDF S. 7; Transkript 2026-07-03 Zeilen 681-715.",
+      "whyExamRelevant": "Kapitel 12.1 ist laut Klausur-relevante-Themen-Seite im Umfang; dies ist die zentrale prüfbare Liste zur Teamzusammensetzung.",
+      "tags": [
+        "QM",
+        "Kapitel 12",
+        "memorize",
+        "team-composition"
+      ],
+      "updatedAt": "2026-07-16T23:28:32"
+    },
+    {
+      "id": "QM-K12-M05",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 12,
+      "chapter": "Kapitel 12 Führung von Projektteams",
+      "kind": "memorize",
+      "priority": 2,
+      "front": "Nennen Sie fünf Punkte für eine effektive Teamsitzung.",
+      "back": "Geeigneter Raum mit Visualisierung; überschaubare Agenda; alle vorbereitet; klare Moderation entlang der Agenda; Protokoll/To-do-Liste mit gemeinsamer Bestätigung am Ende.",
+      "source": "Kapitel 12 PDF S. 20 und S. 27; Mitschrift-Foto PDF S. 28; Transkript 2026-07-03 Zeilen 1069-1072 und 934-956.",
+      "whyExamRelevant": "Steht in den Wiederholfragen; Lehrer fragt und beantwortet es in der letzten Stunde, obwohl es nicht der engste handschriftliche Kapitelblock ist.",
+      "tags": [
+        "QM",
+        "Kapitel 12",
+        "memorize",
+        "meeting"
+      ],
+      "updatedAt": "2026-07-16T23:28:32"
+    },
+    {
+      "id": "QM-K12-M06",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 12,
+      "chapter": "Kapitel 12 Führung von Projektteams",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Wann ist eine Videokonferenz zu empfehlen?",
+      "back": "Wenn die Teilnehmer sich kennen bzw. schon ein Team sind und das Thema unkritisch sowie konfliktfrei ist. Nicht geeignet bei unbekannten Teilnehmern oder kritischen/konfliktbehafteten Themen.",
+      "source": "Kapitel 12 PDF S. 26-27; Wiederholfragen PDF S. 27; Transkript 2026-07-03 Zeilen 1073-1090.",
+      "whyExamRelevant": "Direkte Wiederholfrage; Lehrer beantwortet sie in der letzten Stunde ausführlich.",
+      "tags": [
+        "QM",
+        "Kapitel 12",
+        "memorize",
+        "videoconference"
+      ],
+      "updatedAt": "2026-07-16T23:28:32"
+    },
+    {
+      "id": "QM-K12-M07",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 12,
+      "chapter": "Kapitel 12 Führung von Projektteams",
+      "kind": "memorize",
+      "priority": 1,
+      "front": "Welche nonverbalen Bestandteile der Kommunikation sind in Videokonferenzen eingeschränkt?",
+      "back": "Körperhaltung nur teilweise sichtbar; Mimik stark verkleinert oder ausgeschaltet; Gestik nur eingeschränkt sichtbar; individueller Blickkontakt ist nicht möglich.",
+      "source": "Kapitel 12 PDF S. 24-26; Wiederholfragen PDF S. 27; Transkript 2026-07-03 Zeilen 1091-1095.",
+      "whyExamRelevant": "Direkte Wiederholfrage; Lehrer nennt diese Punkte am Ende der letzten Stunde.",
+      "tags": [
+        "QM",
+        "Kapitel 12",
+        "memorize",
+        "communication",
+        "videoconference"
+      ],
+      "updatedAt": "2026-07-16T23:28:32"
+    },
+    {
+      "id": "QM-K12-S01",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 12,
+      "chapter": "Kapitel 12 Führung von Projektteams",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Tuckman-Modell anwenden: Eine Situation einer Phase zuordnen.",
+      "back": "Orientierung/Unsicherheit ? Forming. Konflikte/Widerstand/Polarisierung ? Storming. Regeln, Normen, Konfliktabbau ? Norming. Produktive gemeinsame Arbeit ? Performing.",
+      "source": "Kapitel 12 PDF S. 10-12; Transkript 2026-07-03 Zeilen 1054-1063.",
+      "whyExamRelevant": "Lehrer sagt ausdrücklich, es könne theoretisch oder als Anwendungsaufgabe abgefragt werden.",
+      "tags": [
+        "QM",
+        "Kapitel 12",
+        "skill",
+        "Tuckman",
+        "application"
+      ],
+      "updatedAt": "2026-07-16T23:28:32"
+    },
+    {
+      "id": "QM-K12-S02",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 12,
+      "chapter": "Kapitel 12 Führung von Projektteams",
+      "kind": "skill",
+      "priority": 2,
+      "front": "Tuckman-Diagramm skizzieren und beschriften.",
+      "back": "x-Achse: Projektdauer. y-Achse: Leistungsfähigkeit des Teams. Verlauf: Forming mit Hügel der Euphorie ? Storming mit Tal der Tränen ? Norming/Stabilisierung ? Performing/Teamarbeit.",
+      "source": "Kapitel 12 PDF S. 12.",
+      "whyExamRelevant": "Die Kurve ist das zentrale Bild zu 12.2; sinnvoll als Verständnis-/Skizzenfrage, wenn Tuckman vertieft abgefragt wird.",
+      "tags": [
+        "QM",
+        "Kapitel 12",
+        "skill",
+        "diagram",
+        "Tuckman"
+      ],
+      "updatedAt": "2026-07-16T23:28:32"
+    },
+    {
+      "id": "QM-K12-S03",
+      "course": "PQM / Prozessorientiertes Qualitätsmanagement",
+      "chapterNo": 12,
+      "chapter": "Kapitel 12 Führung von Projektteams",
+      "kind": "skill",
+      "priority": 1,
+      "front": "Entscheiden, ob eine Videokonferenz für eine Situation geeignet ist.",
+      "back": "Geeignet bei bekanntem Team und unkritischem Thema. Präsenz besser bei neuen Teams, Konflikten, kritischen Entscheidungen oder wenn Körpersprache/Vertrauen wichtig sind.",
+      "source": "Kapitel 12 PDF S. 26-27; Transkript 2026-07-03 Zeilen 1073-1090.",
+      "whyExamRelevant": "Lehrer macht daraus eine direkte Wiederholfrage; es ist eher eine kurze Begründungs-/Anwendungsfrage als reines Auswendiglernen.",
+      "tags": [
+        "QM",
+        "Kapitel 12",
+        "skill",
+        "videoconference",
+        "application"
+      ],
+      "updatedAt": "2026-07-16T23:28:32"
+    }
+  ]
+}

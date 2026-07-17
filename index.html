@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>PQM Klausurtrainer</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Lernsteuerung">
+        <header class="brand">
+          <p class="eyebrow">Prozessorientiertes Qualitätsmanagement</p>
+          <h1>PQM Klausurtrainer</h1>
+        </header>
+
+        <section class="panel stats-panel" aria-label="Fortschritt">
+          <div class="stat-grid">
+            <div>
+              <span id="stat-total" class="stat-value">0</span>
+              <span class="stat-label">Karten</span>
+            </div>
+            <div>
+              <span id="stat-due" class="stat-value">0</span>
+              <span class="stat-label">fällig</span>
+            </div>
+            <div>
+              <span id="stat-known" class="stat-value">0</span>
+              <span class="stat-label">sicher</span>
+            </div>
+            <div>
+              <span id="stat-progress" class="stat-value">0%</span>
+              <span class="stat-label">gesehen</span>
+            </div>
+          </div>
+        </section>
+
+        <section class="panel controls" aria-label="Filter">
+          <label>
+            Kapitel
+            <select id="chapter-filter"></select>
+          </label>
+
+          <label>
+            Kartentyp
+            <select id="kind-filter">
+              <option value="all">Alle</option>
+              <option value="memorize">要背</option>
+              <option value="skill">要会</option>
+            </select>
+          </label>
+
+          <label>
+            Priorität
+            <select id="priority-filter">
+              <option value="all">Alle</option>
+              <option value="1">P1 hoch</option>
+              <option value="2">P2 mittel</option>
+              <option value="3">P3+</option>
+            </select>
+          </label>
+
+          <label>
+            Suche
+            <input id="search-input" type="search" placeholder="Begriff, Quelle, Tag..." />
+          </label>
+
+          <div class="toggle-row">
+            <label class="check-label">
+              <input id="due-only" type="checkbox" />
+              Nur fällige Karten
+            </label>
+            <label class="check-label">
+              <input id="weak-only" type="checkbox" />
+              Nur unsichere Karten
+            </label>
+          </div>
+        </section>
+
+        <section class="panel chapter-panel" aria-label="Kapitelübersicht">
+          <div class="panel-title">Kapitelstatus</div>
+          <div id="chapter-list" class="chapter-list"></div>
+        </section>
+      </aside>
+
+      <main class="main">
+        <nav class="topbar" aria-label="Ansichten">
+          <div class="tabs" role="tablist">
+            <button class="tab is-active" data-view="study" type="button">Training</button>
+            <button class="tab" data-view="browse" type="button">Übersicht</button>
+          </div>
+          <div class="top-actions">
+            <button id="shuffle-btn" class="ghost-btn" type="button">Mischen</button>
+            <button id="reset-session-btn" class="ghost-btn" type="button">Session neu</button>
+          </div>
+        </nav>
+
+        <section id="study-view" class="view is-active">
+          <div class="queue-line">
+            <span id="queue-count">0 Karten im aktuellen Stapel</span>
+            <span id="card-position">0 / 0</span>
+          </div>
+
+          <article class="flashcard" aria-live="polite">
+            <div class="card-meta">
+              <span id="card-chapter" class="pill">Kapitel</span>
+              <span id="card-kind" class="pill">Typ</span>
+              <span id="card-priority" class="pill">P</span>
+            </div>
+
+            <h2 id="card-front">Karten werden geladen...</h2>
+
+            <div id="card-answer" class="answer" hidden>
+              <div class="answer-heading">Antwort</div>
+              <div id="card-back" class="answer-body"></div>
+              <details class="evidence">
+                <summary>Quelle und Prüfungsgrund</summary>
+                <p><strong>Quelle:</strong> <span id="card-source"></span></p>
+                <p><strong>Warum prüfungsrelevant:</strong> <span id="card-reason"></span></p>
+              </details>
+            </div>
+
+            <div class="card-actions">
+              <button id="show-answer-btn" class="primary-btn" type="button">Antwort zeigen</button>
+              <div id="grade-actions" class="grade-actions" hidden>
+                <button class="grade-btn bad" data-grade="again" type="button">Nicht gewusst</button>
+                <button class="grade-btn mid" data-grade="hard" type="button">Unsicher</button>
+                <button class="grade-btn good" data-grade="good" type="button">Gewusst</button>
+              </div>
+            </div>
+          </article>
+
+          <div id="empty-state" class="empty-state" hidden>
+            Für diese Filter gibt es keine Karte. Filter zurücksetzen oder Session neu starten.
+          </div>
+        </section>
+
+        <section id="browse-view" class="view">
+          <div class="browse-header">
+            <h2>Alle Karten</h2>
+            <p id="browse-count">0 Karten</p>
+          </div>
+          <div id="card-table" class="card-table"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
